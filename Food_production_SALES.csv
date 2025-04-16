@@ -1,0 +1,1001 @@
+date,Order_Time,Product_Name,Category,Quantity_Sold1,Price per Unit,Total_Sales_Amount,Region,Country,Customer Type,Discount_Applied,Profit_Loss,Payment Method,Sales_Channel
+01-01-2024,23:51:00,Cakes,Bakery,2,128.25,256.5,South,Australia,Retailer,3.39,100.3,UPI,Retail Store
+01-01-2024,11:05:00,Bread,Bakery,91,124.1,11293.1,North,Australia,Wholesaler,20.93,4433.52,Debit Card,Offline
+01-01-2024,03:30:00,Coffee,Beverages,18,81.59,1468.62,South,India,Online,4.58,385.92,Credit Card,Offline
+01-01-2024,13:56:00,Bread,Bakery,55,93.47,5140.85,East,India,Wholesaler,15.8,1073.05,PayPal,Wholesale
+01-01-2024,09:37:00,Cookies,Bakery,64,97.21,6221.44,West,Germany,Online,12.59,1751.04,Credit Card,Online
+01-01-2024,12:08:00,Protein Bars,Snacks,18,101.79,1832.22,West,Germany,Wholesaler,12.29,306.36,Cash,Offline
+01-01-2024,03:54:00,Cookies,Bakery,76,73.25,5567,West,Australia,Online,21.39,2207.04,Credit Card,Online
+01-01-2024,05:54:00,Nuts,Snacks,22,31.5,693,North,Canada,Online,0.19,93.28,UPI,Offline
+01-01-2024,04:00:00,Cakes,Bakery,20,104.21,2084.2,West,USA,Wholesaler,1.25,319.4,UPI,Wholesale
+01-01-2024,14:02:00,Coffee,Beverages,57,95.05,5417.85,East,Australia,Wholesaler,14.46,1890.12,Credit Card,Offline
+01-01-2024,21:49:00,Milk,Dairy,69,58.47,4034.43,South,Germany,Retailer,5.84,921.84,Credit Card,Retail Store
+01-01-2024,19:15:00,Milk,Dairy,82,123.01,10086.82,North,USA,Wholesaler,25.54,3040.56,Credit Card,Online
+01-01-2024,14:38:00,Soft Drink,Beverages,72,53.85,3877.2,West,Canada,Retailer,16,1020.96,PayPal,Online
+01-01-2024,17:21:00,Butter,Dairy,65,110.53,7184.45,West,Australia,Online,6.08,2471.95,UPI,Online
+01-01-2024,18:05:00,Chips,Snacks,12,34.46,413.52,East,India,Online,8.69,56.64,Credit Card,Retail Store
+01-01-2024,18:59:00,Coffee,Beverages,35,63.23,2213.05,North,India,Wholesaler,13.76,250.6,Cash,Offline
+01-01-2024,05:31:00,Nuts,Snacks,83,136.36,11317.88,South,Australia,Wholesaler,12.93,1791.97,Cash,Offline
+07-01-2024,03:53:00,Protein Bars,Snacks,96,138.71,13316.16,East,UK,Retailer,17.35,2654.4,Cash,Wholesale
+01-01-2024,08:54:00,Popcorn,Snacks,78,131.21,10234.38,South,Canada,Retailer,9.82,2445.3,Cash,Wholesale
+02-01-2024,20:14:00,Yogurt,Dairy,34,74.84,2544.56,North,Australia,Wholesaler,1.29,510.34,Cash,Offline
+15-02-2024,02:16:00,Protein Bars,Snacks,86,149.04,12817.44,North,UK,Retailer,17.38,4813.42,Cash,Retail Store
+02-01-2024,15:41:00,Popcorn,Snacks,23,29.2,671.6,North,Canada,Online,5.25,180.55,Debit Card,Offline
+18-03-2024,06:27:00,Protein Bars,Snacks,85,143.23,12174.55,South,UK,Wholesaler,27.1,4453.15,Credit Card,Wholesale
+02-01-2024,08:53:00,Cookies,Bakery,92,132.99,12235.08,West,Germany,Retailer,5.6,1638.52,UPI,Wholesale
+02-01-2024,03:31:00,Soft Drink,Beverages,32,142.22,4551.04,North,USA,Retailer,18.31,1482.24,Cash,Retail Store
+20-02-2024,11:39:00,Chips,Snacks,78,149.55,11664.9,East,UK,Online,2.55,3047.46,Debit Card,Retail Store
+02-01-2024,08:07:00,Soft Drink,Beverages,36,19.06,686.16,West,Germany,Retailer,22.05,79.92,Cash,Offline
+02-01-2024,06:35:00,Milk,Dairy,15,148.2,2223,West,Canada,Online,15.89,269.4,UPI,Wholesale
+02-01-2024,22:23:00,Butter,Dairy,81,141.07,11426.67,West,India,Online,18.53,1975.59,Debit Card,Offline
+02-01-2024,14:59:00,Nuts,Snacks,76,52.78,4011.28,South,Australia,Online,29.04,1162.04,PayPal,Wholesale
+02-01-2024,15:49:00,Chips,Snacks,54,132.53,7156.62,East,Canada,Wholesaler,28.55,1832.76,Cash,Offline
+18-02-2024,05:53:00,Chips,Snacks,87,114.49,9960.63,West,UK,Retailer,22.88,3378.21,PayPal,Online
+02-01-2024,22:31:00,Cakes,Bakery,33,24.23,799.59,South,Canada,Retailer,27.39,199.65,UPI,Offline
+02-01-2024,03:25:00,Milk,Dairy,66,22.28,1470.48,East,Canada,Retailer,28.18,305.58,Debit Card,Online
+02-01-2024,10:42:00,Protein Bars,Snacks,70,131.09,9176.3,South,USA,Retailer,17.25,2905.7,Debit Card,Retail Store
+02-01-2024,18:52:00,Juice,Beverages,22,28.59,628.98,East,India,Online,26.15,163.68,Debit Card,Wholesale
+02-01-2024,22:50:00,Bread,Bakery,38,130.25,4949.5,East,Australia,Wholesaler,16.1,1944.08,UPI,Offline
+02-01-2024,18:59:00,Muffins,Bakery,77,147.08,11325.16,East,Canada,Online,9.22,3197.04,UPI,Offline
+24-03-2024,19:26:00,Nuts,Snacks,92,91.26,8395.92,North,UK,Retailer,6.97,3092.12,PayPal,Online
+02-01-2024,10:02:00,Butter,Dairy,80,7.64,611.2,North,Australia,Retailer,16.76,220.8,Cash,Wholesale
+02-01-2024,07:23:00,Cookies,Bakery,51,31.45,1603.95,South,USA,Retailer,21.13,346.29,Cash,Offline
+02-01-2024,19:13:00,Yogurt,Dairy,41,100.84,4134.44,East,India,Retailer,4.92,1131.19,Debit Card,Retail Store
+02-01-2024,10:18:00,Popcorn,Snacks,15,7.33,109.95,North,USA,Retailer,9.21,18,UPI,Wholesale
+02-01-2024,09:53:00,Juice,Beverages,22,133.41,2935.02,South,USA,Online,26.79,932.8,Credit Card,Offline
+11-02-2024,05:14:00,Nuts,Snacks,77,101.96,7850.92,South,UK,Wholesaler,11.27,1923.46,UPI,Retail Store
+02-01-2024,22:27:00,Coffee,Beverages,69,64.52,4451.88,West,India,Online,5.42,1417.95,PayPal,Offline
+07-02-2024,07:46:00,Protein Bars,Snacks,77,99.86,7689.22,North,UK,Online,17.81,1984.29,UPI,Offline
+03-01-2024,09:19:00,Yogurt,Dairy,53,13.41,710.73,South,USA,Retailer,21.49,227.37,Credit Card,Wholesale
+16-01-2024,00:14:00,Nuts,Snacks,66,109.32,7215.12,East,UK,Retailer,15.03,2867.04,Credit Card,Online
+03-01-2024,22:19:00,Coffee,Beverages,56,38.77,2171.12,East,India,Online,12.36,598.08,Cash,Online
+03-01-2024,16:03:00,Protein Bars,Snacks,74,70.69,5231.06,West,Canada,Wholesaler,28.62,991.6,Debit Card,Online
+03-01-2024,11:06:00,Butter,Dairy,78,96.03,7490.34,South,Canada,Wholesaler,28.15,1192.62,Cash,Offline
+03-01-2024,17:47:00,Soft Drink,Beverages,45,139.75,6288.75,West,India,Retailer,15.3,2374.2,Debit Card,Offline
+04-01-2024,14:39:00,Coffee,Beverages,90,123.31,11097.9,South,Germany,Retailer,9.05,3226.5,UPI,Online
+04-01-2024,13:42:00,Milk,Dairy,39,122.7,4785.3,North,Germany,Retailer,16.46,1437.54,UPI,Online
+04-01-2024,17:12:00,Cakes,Bakery,99,33.35,3301.65,East,Australia,Wholesaler,3.8,908.82,UPI,Retail Store
+04-01-2024,12:14:00,Popcorn,Snacks,62,51.64,3201.68,West,Canada,Wholesaler,20.92,1275.96,Credit Card,Offline
+04-01-2024,05:11:00,Protein Bars,Snacks,47,104.67,4919.49,North,Australia,Wholesaler,26.24,1741.82,Debit Card,Offline
+04-01-2024,04:11:00,Cakes,Bakery,92,11.64,1070.88,East,India,Wholesaler,24.31,356.04,Cash,Retail Store
+05-01-2024,23:02:00,Chips,Snacks,62,25.62,1588.44,East,India,Wholesaler,8.82,584.04,Debit Card,Offline
+05-01-2024,02:57:00,Milk,Dairy,6,26.38,158.28,West,Australia,Wholesaler,20.9,39.06,Debit Card,Online
+05-01-2024,13:17:00,Protein Bars,Snacks,87,56.56,4920.72,North,USA,Retailer,11.95,1195.38,Credit Card,Online
+05-01-2024,07:28:00,Butter,Dairy,13,96.22,1250.86,South,Australia,Wholesaler,10.52,406.64,Cash,Retail Store
+05-01-2024,22:35:00,Protein Bars,Snacks,49,123.13,6033.37,West,USA,Wholesaler,22.03,1134.84,Cash,Retail Store
+05-01-2024,04:52:00,Protein Bars,Snacks,62,120.55,7474.1,East,Australia,Online,0.51,2621.98,Cash,Retail Store
+05-01-2024,22:52:00,Nuts,Snacks,59,82.78,4884.02,North,USA,Wholesaler,15.98,1492.7,Cash,Offline
+05-01-2024,15:36:00,Chips,Snacks,41,88.06,3610.46,East,Canada,Online,6.22,1107,Credit Card,Online
+05-01-2024,14:38:00,Yogurt,Dairy,74,146.42,10835.08,North,Australia,Wholesaler,27.23,1159.58,Debit Card,Offline
+06-01-2024,11:30:00,Yogurt,Dairy,7,77.19,540.33,South,Germany,Retailer,4.8,194.88,Debit Card,Wholesale
+06-01-2024,13:52:00,Chips,Snacks,70,114.81,8036.7,East,USA,Retailer,0.75,1304.1,Debit Card,Online
+06-01-2024,23:07:00,Bread,Bakery,21,145.29,3051.09,South,USA,Retailer,13.36,307.44,Credit Card,Wholesale
+06-01-2024,15:59:00,Cookies,Bakery,30,80.86,2425.8,South,Australia,Wholesaler,24.14,546.9,Debit Card,Online
+06-01-2024,14:47:00,Soft Drink,Beverages,68,108.4,7371.2,East,Australia,Wholesaler,4.58,1982.88,UPI,Offline
+06-01-2024,23:52:00,Milk,Dairy,13,14.51,188.63,South,Canada,Retailer,6.21,57.33,PayPal,Retail Store
+02-01-2024,05:08:00,Nuts,Snacks,56,117.58,6584.48,West,UK,Retailer,2.97,1983.52,PayPal,Offline
+07-01-2024,22:31:00,Soft Drink,Beverages,21,113.37,2380.77,North,Australia,Online,0.52,346.29,Debit Card,Online
+07-01-2024,06:49:00,Chips,Snacks,57,118.81,6772.17,North,Australia,Online,13.4,1825.14,Credit Card,Wholesale
+07-01-2024,20:08:00,Milk,Dairy,94,124.52,11704.88,North,Australia,Wholesaler,0.47,1466.4,Debit Card,Offline
+07-01-2024,22:31:00,Muffins,Bakery,58,82.36,4776.88,East,Canada,Retailer,29.48,1477.26,Cash,Wholesale
+07-01-2024,06:52:00,Butter,Dairy,55,85.08,4679.4,East,Australia,Retailer,15.24,493.35,PayPal,Retail Store
+23-02-2024,16:37:00,Protein Bars,Snacks,63,92.47,5825.61,South,UK,Wholesaler,21.71,1656.9,Debit Card,Wholesale
+13-02-2024,22:08:00,Protein Bars,Snacks,50,98.23,4911.5,West,UK,Online,8.44,1472,Debit Card,Online
+07-01-2024,05:02:00,Yogurt,Dairy,100,62.78,6278,East,USA,Wholesaler,20.03,1298,PayPal,Retail Store
+07-01-2024,12:29:00,Muffins,Bakery,24,31.62,758.88,West,India,Wholesaler,25.98,290.4,Credit Card,Wholesale
+07-01-2024,18:38:00,Chips,Snacks,99,34.49,3414.51,South,India,Retailer,9.97,1192.95,PayPal,Online
+08-01-2024,01:46:00,Nuts,Snacks,40,137.8,5512,North,India,Wholesaler,14.21,874,Cash,Online
+08-01-2024,09:54:00,Soft Drink,Beverages,5,149.06,745.3,South,USA,Retailer,5.95,239.5,UPI,Wholesale
+08-01-2024,06:33:00,Muffins,Bakery,14,110.05,1540.7,South,Germany,Retailer,13.49,195.3,Cash,Offline
+08-01-2024,12:39:00,Coffee,Beverages,25,48.24,1206,East,India,Online,24.07,222.75,Credit Card,Online
+01-01-2024,06:10:00,Popcorn,Snacks,52,91.08,4736.16,North,UK,Wholesaler,15.74,1065.48,Cash,Online
+08-01-2024,02:24:00,Milk,Dairy,14,74.82,1047.48,North,Canada,Retailer,24.42,284.34,Credit Card,Offline
+08-01-2024,10:50:00,Cheese,Dairy,25,85.7,2142.5,East,Australia,Retailer,17.67,791.5,Credit Card,Retail Store
+08-01-2024,10:27:00,Cheese,Dairy,81,85.59,6932.79,North,USA,Retailer,2.22,2334.42,Cash,Online
+30-03-2024,15:26:00,Chips,Snacks,83,43.31,3594.73,North,UK,Wholesaler,12.06,1185.24,Debit Card,Online
+08-01-2024,18:25:00,Tea,Beverages,31,48.53,1504.43,East,India,Online,22.73,287.06,Cash,Online
+08-01-2024,04:27:00,Cheese,Dairy,61,17.96,1095.56,South,Australia,Wholesaler,22.35,359.9,Credit Card,Wholesale
+08-01-2024,15:14:00,Cheese,Dairy,46,33.44,1538.24,East,India,Wholesaler,18.13,174.34,UPI,Online
+08-01-2024,12:41:00,Soft Drink,Beverages,23,61.82,1421.86,South,USA,Online,3.48,230,Credit Card,Wholesale
+09-01-2024,23:08:00,Tea,Beverages,27,88.72,2395.44,South,Germany,Retailer,27.43,829.71,PayPal,Offline
+09-01-2024,19:46:00,Muffins,Bakery,80,37.15,2972,North,Australia,Online,5.65,470.4,Cash,Online
+09-01-2024,13:26:00,Tea,Beverages,95,117.77,11188.15,North,Canada,Wholesaler,6.19,2790.15,Debit Card,Online
+09-01-2024,13:01:00,Soft Drink,Beverages,16,51.41,822.56,West,Australia,Wholesaler,2.52,127.04,Credit Card,Offline
+09-01-2024,10:21:00,Nuts,Snacks,49,125.55,6151.95,West,Germany,Online,11.46,2124.64,UPI,Retail Store
+07-02-2024,08:32:00,Chips,Snacks,71,46.82,3324.22,South,UK,Online,0.14,852.71,PayPal,Online
+09-01-2024,10:33:00,Protein Bars,Snacks,29,79.63,2309.27,North,Australia,Retailer,23.05,758.35,PayPal,Offline
+09-01-2024,06:51:00,Juice,Beverages,58,148.98,8640.84,West,USA,Retailer,6.15,1944.16,Credit Card,Wholesale
+09-01-2024,16:10:00,Coffee,Beverages,68,56.22,3822.96,East,India,Online,16.37,961.52,UPI,Online
+09-01-2024,07:31:00,Tea,Beverages,51,108.17,5516.67,West,India,Retailer,1.59,861.9,UPI,Wholesale
+09-01-2024,14:32:00,Nuts,Snacks,20,77.29,1545.8,East,Canada,Online,0.04,283.4,PayPal,Retail Store
+09-01-2024,03:45:00,Nuts,Snacks,77,100.39,7730.03,East,Canada,Retailer,3.71,1524.6,PayPal,Online
+09-01-2024,04:06:00,Cookies,Bakery,59,38.15,2250.85,South,USA,Retailer,15.24,865.53,Credit Card,Wholesale
+09-01-2024,20:18:00,Muffins,Bakery,63,63.46,3997.98,South,Australia,Retailer,18.83,1299.69,Credit Card,Offline
+10-01-2024,23:19:00,Nuts,Snacks,77,47.22,3635.94,North,Canada,Wholesaler,19.05,847,Debit Card,Offline
+10-01-2024,05:14:00,Milk,Dairy,90,32.54,2928.6,West,Canada,Online,4.11,908.1,UPI,Wholesale
+03-02-2024,04:05:00,Protein Bars,Snacks,95,33.33,3166.35,North,UK,Retailer,26.09,730.55,Debit Card,Wholesale
+10-01-2024,20:10:00,Popcorn,Snacks,96,116.14,11149.44,South,USA,Online,20.27,4402.56,Credit Card,Wholesale
+10-01-2024,21:07:00,Bread,Bakery,64,32.11,2055.04,South,India,Wholesaler,9.35,382.08,Debit Card,Online
+11-01-2024,15:45:00,Yogurt,Dairy,73,71.64,5229.72,South,Germany,Retailer,8.52,1289.18,Debit Card,Wholesale
+11-01-2024,08:52:00,Juice,Beverages,39,72.53,2828.67,North,Australia,Retailer,5.58,862.29,UPI,Wholesale
+11-01-2024,04:46:00,Popcorn,Snacks,24,69.52,1668.48,North,Canada,Online,24.41,197.04,UPI,Online
+11-01-2024,05:39:00,Nuts,Snacks,46,148.15,6814.9,South,USA,Retailer,1.18,700.12,Cash,Offline
+10-01-2024,04:40:00,Chips,Snacks,33,92.71,3059.43,East,UK,Retailer,11.94,601.92,Cash,Offline
+11-01-2024,20:58:00,Milk,Dairy,47,92.96,4369.12,South,Canada,Retailer,24.7,1320.7,UPI,Retail Store
+02-01-2024,18:08:00,Protein Bars,Snacks,38,79.02,3002.76,West,UK,Retailer,5.98,553.28,Cash,Wholesale
+11-01-2024,04:29:00,Butter,Dairy,81,131.03,10613.43,West,Canada,Online,16.7,3124.17,UPI,Wholesale
+11-01-2024,20:45:00,Coffee,Beverages,50,139.94,6997,West,Canada,Retailer,18.2,2786.5,UPI,Online
+12-01-2024,02:41:00,Coffee,Beverages,35,31.58,1105.3,West,Germany,Retailer,26.05,403.55,Credit Card,Online
+12-01-2024,04:08:00,Tea,Beverages,35,53.61,1876.35,East,Canada,Online,8.6,351.05,UPI,Wholesale
+12-01-2024,18:18:00,Soft Drink,Beverages,82,145.14,11901.48,East,Canada,Wholesaler,20.15,3035.64,PayPal,Offline
+12-01-2024,12:03:00,Cakes,Bakery,44,142.43,6266.92,South,USA,Online,17.27,1453.32,Cash,Offline
+12-01-2024,20:10:00,Cookies,Bakery,47,142.07,6677.29,South,India,Wholesaler,25.04,1445.72,Debit Card,Offline
+12-01-2024,15:53:00,Popcorn,Snacks,48,29.38,1410.24,West,Germany,Wholesaler,17.42,322.56,Credit Card,Retail Store
+12-01-2024,23:18:00,Coffee,Beverages,6,116.78,700.68,West,USA,Wholesaler,10.57,229.38,Credit Card,Wholesale
+12-01-2024,09:11:00,Juice,Beverages,19,135.65,2577.35,East,Germany,Online,19.36,877.04,Credit Card,Online
+12-01-2024,16:37:00,Cakes,Bakery,71,61.77,4385.67,East,Germany,Retailer,7.76,1116.83,Cash,Online
+12-01-2024,10:56:00,Muffins,Bakery,10,130.54,1305.4,South,USA,Retailer,15.28,146.2,Debit Card,Retail Store
+03-03-2024,19:55:00,Nuts,Snacks,51,51.26,2614.26,East,UK,Retailer,26.67,781.83,Credit Card,Online
+12-01-2024,19:44:00,Protein Bars,Snacks,39,109.36,4265.04,North,India,Online,13.39,1572.87,Debit Card,Wholesale
+12-01-2024,04:55:00,Milk,Dairy,25,52.47,1311.75,East,Canada,Wholesaler,15.15,481,Debit Card,Online
+12-01-2024,17:42:00,Cheese,Dairy,76,30.72,2334.72,North,Germany,Retailer,23.01,528.96,Credit Card,Offline
+12-01-2024,19:17:00,Cookies,Bakery,44,58.67,2581.48,South,Germany,Retailer,6.66,1013.32,Credit Card,Online
+13-01-2024,16:23:00,Protein Bars,Snacks,51,105.37,5373.87,East,USA,Online,3.34,1671.78,Credit Card,Wholesale
+13-01-2024,11:13:00,Milk,Dairy,99,27.23,2695.77,South,Germany,Online,10.4,1058.31,PayPal,Online
+13-01-2024,10:57:00,Nuts,Snacks,70,93.73,6561.1,North,Germany,Wholesaler,19.13,1309.7,Debit Card,Wholesale
+13-01-2024,06:06:00,Juice,Beverages,55,131.1,7210.5,West,India,Wholesaler,4.51,1189.1,Credit Card,Retail Store
+13-01-2024,11:15:00,Coffee,Beverages,36,65.56,2360.16,East,Germany,Retailer,18.42,253.08,Credit Card,Offline
+15-01-2024,19:56:00,Protein Bars,Snacks,15,143.07,2146.05,South,UK,Online,18.86,232.35,Credit Card,Offline
+13-01-2024,19:18:00,Nuts,Snacks,28,109.51,3066.28,North,USA,Online,4.81,716.24,UPI,Online
+13-01-2024,22:12:00,Protein Bars,Snacks,26,61.73,1604.98,West,Germany,Wholesaler,14.28,567.84,Debit Card,Wholesale
+13-01-2024,11:49:00,Cakes,Bakery,21,91.2,1915.2,East,Germany,Wholesaler,2.93,761.46,Debit Card,Offline
+13-01-2024,11:46:00,Cheese,Dairy,11,117.27,1289.97,South,USA,Wholesaler,20.62,412.39,UPI,Retail Store
+13-01-2024,16:00:00,Cakes,Bakery,9,108.24,974.16,North,Canada,Retailer,2.8,189.63,Debit Card,Wholesale
+13-01-2024,03:01:00,Juice,Beverages,9,54.01,486.09,West,Australia,Retailer,10.14,193.14,UPI,Offline
+13-01-2024,22:15:00,Popcorn,Snacks,3,144.48,433.44,East,India,Online,24.5,155.1,PayPal,Offline
+13-01-2024,15:59:00,Yogurt,Dairy,34,93.81,3189.54,North,India,Wholesaler,8.43,451.86,UPI,Offline
+13-01-2024,19:42:00,Popcorn,Snacks,50,120.55,6027.5,North,Canada,Online,10.81,1799.5,Credit Card,Wholesale
+13-01-2024,08:24:00,Juice,Beverages,46,83.03,3819.38,North,Germany,Online,20.99,1251.2,PayPal,Online
+13-01-2024,19:40:00,Butter,Dairy,36,85.02,3060.72,West,India,Wholesaler,0.14,678.24,Debit Card,Online
+14-01-2024,18:02:00,Tea,Beverages,28,76.64,2145.92,East,Canada,Wholesaler,1.43,577.08,UPI,Offline
+14-01-2024,07:06:00,Nuts,Snacks,29,106.61,3091.69,North,India,Online,3.16,990.35,Debit Card,Offline
+14-01-2024,01:56:00,Protein Bars,Snacks,76,79.99,6079.24,West,India,Online,14.65,1471.36,Credit Card,Wholesale
+14-01-2024,15:29:00,Tea,Beverages,51,73.34,3740.34,West,USA,Retailer,17.51,788.46,Credit Card,Retail Store
+14-01-2024,17:17:00,Cheese,Dairy,11,68.39,752.29,South,Australia,Retailer,3.34,132.77,Credit Card,Online
+14-01-2024,03:21:00,Muffins,Bakery,83,66.61,5528.63,West,Canada,Online,15.5,679.77,Debit Card,Offline
+15-01-2024,23:28:00,Chips,Snacks,71,103.07,7317.97,West,USA,Retailer,8.98,2658.95,Debit Card,Offline
+15-01-2024,12:56:00,Protein Bars,Snacks,16,18.52,296.32,West,Canada,Wholesaler,11.64,58.88,UPI,Retail Store
+08-02-2024,22:01:00,Protein Bars,Snacks,96,21.24,2039.04,North,UK,Online,14.06,613.44,Debit Card,Online
+15-01-2024,05:15:00,Cheese,Dairy,20,66.04,1320.8,North,India,Retailer,25.58,292.6,UPI,Online
+15-01-2024,18:58:00,Chips,Snacks,84,50.57,4247.88,East,Australia,Online,6.3,1019.76,PayPal,Wholesale
+25-02-2024,01:02:00,Popcorn,Snacks,74,26.95,1994.3,South,UK,Retailer,0.64,611.24,Cash,Offline
+16-01-2024,04:48:00,Cookies,Bakery,57,42.21,2405.97,East,Germany,Online,15.62,917.13,Debit Card,Wholesale
+16-01-2024,09:42:00,Tea,Beverages,35,65.51,2292.85,West,India,Online,9,802.2,PayPal,Retail Store
+16-01-2024,11:41:00,Protein Bars,Snacks,89,143.73,12791.97,East,Germany,Wholesaler,1.24,2168.93,Cash,Offline
+16-01-2024,00:31:00,Chips,Snacks,57,145.5,8293.5,East,India,Retailer,10.79,2121.54,Credit Card,Wholesale
+17-01-2024,19:18:00,Chips,Snacks,75,26.38,1978.5,West,UK,Retailer,15.5,582,UPI,Wholesale
+16-01-2024,06:14:00,Protein Bars,Snacks,99,99.44,9844.56,North,India,Wholesaler,29.98,3258.09,UPI,Online
+16-01-2024,05:15:00,Yogurt,Dairy,92,108.33,9966.36,West,USA,Online,10.23,3559.48,Debit Card,Retail Store
+16-01-2024,11:54:00,Muffins,Bakery,69,143.78,9920.82,West,Australia,Online,9.83,2268.03,UPI,Wholesale
+16-01-2024,12:20:00,Bread,Bakery,35,59.87,2095.45,South,USA,Retailer,1.63,415.8,Credit Card,Wholesale
+16-01-2024,01:23:00,Butter,Dairy,82,82.02,6725.64,North,USA,Online,18.82,2514.12,PayPal,Retail Store
+16-01-2024,23:32:00,Cakes,Bakery,39,50.5,1969.5,North,USA,Online,16.73,515.19,Cash,Offline
+16-01-2024,19:16:00,Cheese,Dairy,76,84.35,6410.6,West,India,Online,0.3,1816.4,PayPal,Online
+15-03-2024,15:51:00,Protein Bars,Snacks,55,35.2,1936,East,UK,Retailer,9.03,458.7,Cash,Online
+16-01-2024,20:42:00,Coffee,Beverages,92,144.38,13282.96,East,Germany,Online,15.12,4732.48,Cash,Offline
+16-01-2024,22:55:00,Bread,Bakery,5,27.48,137.4,North,USA,Online,19.16,24.45,Credit Card,Wholesale
+17-02-2024,13:51:00,Chips,Snacks,38,49.12,1866.56,North,UK,Retailer,27.55,245.1,UPI,Wholesale
+17-01-2024,03:02:00,Cheese,Dairy,65,74.27,4827.55,East,Germany,Retailer,23.13,750.1,UPI,Offline
+03-01-2024,22:10:00,Chips,Snacks,15,103.79,1556.85,South,UK,Retailer,1.83,527.1,Credit Card,Offline
+18-01-2024,18:40:00,Juice,Beverages,41,128.23,5257.43,North,Germany,Online,5.4,1981.53,Credit Card,Offline
+18-01-2024,11:04:00,Cheese,Dairy,46,61.42,2825.32,East,USA,Wholesaler,8.08,653.66,Debit Card,Retail Store
+18-01-2024,01:48:00,Popcorn,Snacks,40,135.65,5426,North,USA,Retailer,21.03,693.6,Debit Card,Wholesale
+18-01-2024,16:13:00,Bread,Bakery,84,9.1,764.4,South,Germany,Wholesaler,7.64,252.84,UPI,Offline
+18-01-2024,21:56:00,Nuts,Snacks,99,44.42,4397.58,East,India,Online,15.37,847.44,UPI,Retail Store
+18-01-2024,12:27:00,Protein Bars,Snacks,42,17.76,745.92,West,USA,Online,9.94,275.94,Cash,Retail Store
+18-01-2024,09:59:00,Muffins,Bakery,42,84.5,3549,South,Canada,Wholesaler,6.58,860.58,Cash,Offline
+18-01-2024,10:59:00,Milk,Dairy,87,71.68,6236.16,East,USA,Online,19.55,1088.37,Debit Card,Online
+18-01-2024,08:11:00,Bread,Bakery,8,68.92,551.36,West,India,Retailer,18.01,57.2,UPI,Online
+18-01-2024,06:54:00,Chips,Snacks,32,47.05,1505.6,East,Canada,Wholesaler,25.27,520.32,Credit Card,Online
+18-01-2024,11:02:00,Cookies,Bakery,97,75.26,7300.22,South,India,Wholesaler,19.22,2798.45,Cash,Wholesale
+18-01-2024,12:10:00,Popcorn,Snacks,25,86.76,2169,South,Canada,Retailer,4.29,232.75,PayPal,Offline
+18-01-2024,21:01:00,Butter,Dairy,84,71.2,5980.8,North,USA,Wholesaler,29.11,1779.96,Debit Card,Retail Store
+18-01-2024,13:00:00,Protein Bars,Snacks,50,107.88,5394,South,USA,Online,6.6,1487.5,PayPal,Offline
+19-01-2024,02:13:00,Yogurt,Dairy,15,65.65,984.75,North,Australia,Online,25.83,103.65,Cash,Online
+19-01-2024,06:29:00,Nuts,Snacks,42,50.55,2123.1,East,USA,Wholesaler,25.19,214.62,UPI,Online
+19-01-2024,11:47:00,Soft Drink,Beverages,4,13.05,52.2,East,USA,Online,7.52,18.36,Cash,Retail Store
+19-01-2024,12:53:00,Soft Drink,Beverages,61,93.39,5696.79,North,Germany,Retailer,11.07,1897.1,Cash,Online
+20-01-2024,11:47:00,Bread,Bakery,62,124.33,7708.46,East,Australia,Wholesaler,6.87,1771.34,UPI,Offline
+20-01-2024,15:27:00,Soft Drink,Beverages,89,124.53,11083.17,East,Germany,Retailer,5.37,2817.74,PayPal,Wholesale
+20-01-2024,17:08:00,Cakes,Bakery,50,53.75,2687.5,North,India,Wholesaler,7.32,938.5,Credit Card,Online
+05-02-2024,17:03:00,Popcorn,Snacks,20,63.89,1277.8,North,UK,Retailer,5.29,282,UPI,Wholesale
+20-01-2024,23:03:00,Butter,Dairy,77,65.79,5065.83,East,Canada,Retailer,13.01,1236.62,PayPal,Wholesale
+20-01-2024,19:20:00,Nuts,Snacks,34,123.9,4212.6,South,Canada,Retailer,1.63,570.52,Cash,Offline
+20-01-2024,16:31:00,Tea,Beverages,74,57.02,4219.48,East,Australia,Online,21.05,647.5,PayPal,Online
+20-01-2024,18:48:00,Protein Bars,Snacks,11,43.7,480.7,East,Australia,Retailer,4.18,146.41,Cash,Offline
+20-01-2024,17:10:00,Cookies,Bakery,9,92.99,836.91,East,Australia,Online,8.17,227.43,Cash,Offline
+21-01-2024,07:27:00,Muffins,Bakery,23,49.12,1129.76,East,Germany,Retailer,15,425.04,Credit Card,Wholesale
+21-01-2024,00:11:00,Nuts,Snacks,37,77.73,2876.01,South,Germany,Wholesaler,22.27,413.29,Debit Card,Wholesale
+21-01-2024,13:57:00,Bread,Bakery,68,50.91,3461.88,East,Germany,Online,8.64,1308.32,PayPal,Online
+08-01-2024,16:36:00,Protein Bars,Snacks,85,13.28,1128.8,North,UK,Retailer,26.77,279.65,PayPal,Online
+21-01-2024,23:55:00,Bread,Bakery,9,76.57,689.13,South,Germany,Retailer,25.21,85.5,PayPal,Offline
+21-01-2024,09:45:00,Cheese,Dairy,79,22.23,1756.17,East,Australia,Wholesaler,19.97,592.5,PayPal,Online
+21-01-2024,12:55:00,Popcorn,Snacks,67,132.84,8900.28,West,Germany,Online,12.79,1233.47,Credit Card,Online
+21-01-2024,12:34:00,Butter,Dairy,12,117.89,1414.68,East,Canada,Wholesaler,26.35,156,Cash,Online
+22-03-2024,11:20:00,Nuts,Snacks,95,11.6,1102,North,UK,Online,29.76,119.7,Debit Card,Wholesale
+21-01-2024,14:55:00,Cakes,Bakery,50,16.08,804,West,Australia,Wholesaler,1.54,297.5,PayPal,Wholesale
+21-01-2024,22:56:00,Butter,Dairy,67,97.7,6545.9,East,Canada,Online,9.62,698.14,Debit Card,Offline
+21-01-2024,08:42:00,Juice,Beverages,57,128.47,7322.79,West,Canada,Online,27.23,1057.92,Cash,Online
+21-01-2024,18:01:00,Milk,Dairy,33,54.9,1811.7,East,Germany,Online,25.77,471.9,UPI,Online
+21-01-2024,14:52:00,Cakes,Bakery,42,49.26,2068.92,North,Germany,Retailer,12.24,243.18,UPI,Wholesale
+21-01-2024,15:27:00,Muffins,Bakery,18,70.04,1260.72,East,Germany,Wholesaler,15.95,429.48,Credit Card,Online
+22-01-2024,01:49:00,Cakes,Bakery,57,26.94,1535.58,East,Canada,Online,14.44,441.18,UPI,Offline
+22-01-2024,11:32:00,Cakes,Bakery,48,145.86,7001.28,North,Canada,Retailer,8.79,2206.08,PayPal,Offline
+22-01-2024,13:44:00,Cakes,Bakery,43,96.41,4145.63,South,USA,Online,4.8,1255.6,Cash,Wholesale
+22-01-2024,00:03:00,Soft Drink,Beverages,46,17.6,809.6,East,USA,Online,26.83,107.64,Credit Card,Retail Store
+22-01-2024,11:23:00,Popcorn,Snacks,6,19.18,115.08,North,USA,Online,10.74,26.88,Credit Card,Offline
+22-01-2024,05:32:00,Chips,Snacks,56,112.41,6294.96,North,Australia,Retailer,14.46,1020.32,UPI,Online
+22-01-2024,10:19:00,Juice,Beverages,18,112.42,2023.56,North,Australia,Retailer,20.7,289.26,Cash,Retail Store
+22-01-2024,14:21:00,Tea,Beverages,2,69.77,139.54,East,USA,Online,20.51,34.66,PayPal,Offline
+22-01-2024,04:20:00,Butter,Dairy,53,110.49,5855.97,South,India,Wholesaler,23.62,791.29,Cash,Offline
+23-01-2024,01:57:00,Bread,Bakery,30,40.73,1221.9,North,Australia,Online,2.72,407.7,PayPal,Offline
+23-01-2024,21:07:00,Muffins,Bakery,23,22.57,519.11,West,USA,Online,27.32,181.93,PayPal,Wholesale
+23-01-2024,02:57:00,Butter,Dairy,93,24.27,2257.11,East,Australia,Wholesaler,17.91,225.99,UPI,Offline
+23-01-2024,13:46:00,Butter,Dairy,99,5.91,585.09,West,Canada,Retailer,9.37,192.06,UPI,Offline
+23-01-2024,12:31:00,Muffins,Bakery,32,67.23,2151.36,South,USA,Online,2.29,657.6,PayPal,Retail Store
+23-01-2024,03:07:00,Butter,Dairy,27,134.6,3634.2,West,Australia,Online,5.69,1353.24,Debit Card,Offline
+23-01-2024,21:54:00,Chips,Snacks,17,98.92,1681.64,North,Australia,Online,29.63,233.75,Credit Card,Retail Store
+24-01-2024,05:11:00,Bread,Bakery,20,49.31,986.2,South,Germany,Online,2.22,221.4,PayPal,Online
+24-01-2024,21:10:00,Muffins,Bakery,6,68.68,412.08,South,Canada,Wholesaler,27.59,72.36,PayPal,Retail Store
+24-01-2024,19:31:00,Cookies,Bakery,98,58.19,5702.62,North,USA,Retailer,27.29,2063.88,UPI,Offline
+24-01-2024,10:12:00,Protein Bars,Snacks,33,97.6,3220.8,South,USA,Online,27.5,737.55,PayPal,Online
+24-01-2024,16:20:00,Nuts,Snacks,25,72.54,1813.5,South,Australia,Online,26.55,229,PayPal,Offline
+24-01-2024,09:34:00,Juice,Beverages,100,21.66,2166,South,India,Online,27.63,300,PayPal,Wholesale
+24-01-2024,13:29:00,Muffins,Bakery,50,76.77,3838.5,North,Canada,Online,27.41,1296,UPI,Offline
+02-01-2024,18:34:00,Protein Bars,Snacks,50,21.45,1072.5,West,UK,Retailer,20.88,352,PayPal,Online
+24-01-2024,04:33:00,Butter,Dairy,80,76.16,6092.8,West,Canada,Wholesaler,4.17,1100,PayPal,Online
+24-01-2024,10:56:00,Chips,Snacks,71,71.21,5055.91,East,Australia,Online,18.7,859.1,UPI,Online
+24-01-2024,11:58:00,Muffins,Bakery,68,20.22,1374.96,East,India,Wholesaler,26.08,334.56,PayPal,Online
+25-01-2024,09:33:00,Cakes,Bakery,28,40.3,1128.4,South,Germany,Wholesaler,9.45,429.52,UPI,Online
+25-01-2024,00:19:00,Nuts,Snacks,52,34.15,1775.8,North,India,Wholesaler,5.21,512.72,Debit Card,Offline
+10-02-2024,11:55:00,Popcorn,Snacks,77,12.83,987.91,South,UK,Retailer,21.18,296.45,Debit Card,Wholesale
+25-01-2024,02:41:00,Cheese,Dairy,13,86.9,1129.7,North,USA,Retailer,26.49,139.62,Debit Card,Retail Store
+25-01-2024,20:17:00,Chips,Snacks,1,15.6,15.6,North,Germany,Retailer,2.51,2.64,Cash,Retail Store
+25-01-2024,07:13:00,Milk,Dairy,41,18.78,769.98,East,Australia,Wholesaler,15.79,179.17,Credit Card,Online
+25-01-2024,02:09:00,Cheese,Dairy,13,85.39,1110.07,North,USA,Wholesaler,6.89,225.55,Credit Card,Retail Store
+25-01-2024,09:57:00,Juice,Beverages,92,16.62,1529.04,East,Germany,Retailer,3.19,534.52,Cash,Retail Store
+25-01-2024,16:56:00,Popcorn,Snacks,95,42.23,4011.85,West,Canada,Retailer,26.31,820.8,PayPal,Wholesale
+25-01-2024,06:31:00,Yogurt,Dairy,15,128.66,1929.9,East,USA,Online,20.81,566.85,Debit Card,Offline
+04-02-2024,05:45:00,Chips,Snacks,36,24.98,899.28,South,UK,Wholesaler,26.83,319.32,UPI,Wholesale
+25-01-2024,04:56:00,Milk,Dairy,22,6.25,137.5,North,India,Retailer,18.54,16.28,Cash,Retail Store
+25-01-2024,20:13:00,Popcorn,Snacks,73,67.13,4900.49,North,India,Wholesaler,16.36,979.66,Credit Card,Wholesale
+25-01-2024,04:42:00,Nuts,Snacks,80,132.41,10592.8,East,Australia,Retailer,12.02,1485.6,Credit Card,Offline
+25-01-2024,06:26:00,Chips,Snacks,84,80.15,6732.6,West,Canada,Wholesaler,19.41,1906.8,Credit Card,Retail Store
+26-01-2024,20:16:00,Protein Bars,Snacks,22,141.82,3120.04,East,India,Retailer,24.47,1156.54,PayPal,Online
+26-01-2024,17:27:00,Popcorn,Snacks,70,12.65,885.5,North,UK,Online,2.86,333.2,Credit Card,Offline
+26-01-2024,09:13:00,Popcorn,Snacks,10,46.13,461.3,South,USA,Retailer,21.2,49.2,Debit Card,Online
+30-03-2024,14:43:00,Chips,Snacks,88,9.2,809.6,West,UK,Wholesaler,23.03,111.76,Credit Card,Retail Store
+03-03-2024,01:33:00,Protein Bars,Snacks,49,16.31,799.19,South,UK,Retailer,15.58,116.62,Cash,Online
+26-01-2024,23:09:00,Chips,Snacks,94,34.23,3217.62,East,Germany,Retailer,23.15,913.68,Cash,Online
+26-01-2024,03:43:00,Soft Drink,Beverages,88,29.97,2637.36,South,Germany,Retailer,22.26,381.04,UPI,Online
+23-02-2024,06:55:00,Chips,Snacks,96,8.08,775.68,West,UK,Retailer,24.3,98.88,PayPal,Offline
+26-01-2024,19:41:00,Muffins,Bakery,13,146.02,1898.26,South,Germany,Wholesaler,9.72,673.92,Debit Card,Online
+03-03-2024,19:23:00,Nuts,Snacks,20,35.93,718.6,East,UK,Retailer,17.2,181.4,Credit Card,Online
+26-01-2024,13:39:00,Protein Bars,Snacks,3,115.86,347.58,West,India,Wholesaler,15.45,41.46,PayPal,Online
+26-01-2024,23:15:00,Yogurt,Dairy,81,55.36,4484.16,East,India,Wholesaler,7.76,1200.42,PayPal,Wholesale
+26-01-2024,11:59:00,Juice,Beverages,89,117.49,10456.61,West,Canada,Retailer,4.82,2642.41,Cash,Wholesale
+07-01-2024,16:58:00,Popcorn,Snacks,11,62.69,689.59,West,UK,Retailer,28,82.72,Debit Card,Online
+26-01-2024,17:51:00,Bread,Bakery,93,67.32,6260.76,South,India,Retailer,3.76,1361.52,Debit Card,Offline
+26-01-2024,22:39:00,Bread,Bakery,100,62.4,6240,South,USA,Retailer,27.92,717,Debit Card,Retail Store
+02-03-2024,04:06:00,Nuts,Snacks,56,9.86,552.16,West,UK,Wholesaler,18.55,121.52,PayPal,Retail Store
+26-01-2024,02:07:00,Soft Drink,Beverages,32,84.67,2709.44,North,Canada,Wholesaler,9.72,375.68,UPI,Retail Store
+13-03-2024,21:53:00,Protein Bars,Snacks,6,67.21,403.26,East,UK,Online,25.15,76.74,UPI,Wholesale
+26-01-2024,23:23:00,Soft Drink,Beverages,54,110.27,5954.58,East,USA,Wholesaler,21.55,1921.32,PayPal,Offline
+29-03-2024,13:33:00,Nuts,Snacks,14,12.43,174.02,South,UK,Wholesaler,12.39,49.98,UPI,Online
+27-01-2024,01:52:00,Butter,Dairy,93,137.54,12791.22,South,India,Retailer,16.99,2109.24,Debit Card,Offline
+27-01-2024,19:57:00,Juice,Beverages,71,110.9,7873.9,North,Australia,Wholesaler,19.69,2101.6,UPI,Online
+27-01-2024,16:03:00,Bread,Bakery,5,71.65,358.25,East,Canada,Online,8.75,105.5,Debit Card,Retail Store
+27-01-2024,17:06:00,Soft Drink,Beverages,59,40.91,2413.69,South,India,Wholesaler,23.64,453.71,PayPal,Online
+27-01-2024,20:08:00,Cookies,Bakery,6,39.71,238.26,East,USA,Retailer,26.84,56.04,PayPal,Wholesale
+27-01-2024,11:08:00,Juice,Beverages,60,83.03,4981.8,North,Canada,Retailer,1.39,1228.8,Credit Card,Wholesale
+27-01-2024,08:48:00,Yogurt,Dairy,46,95.74,4404.04,South,Australia,Retailer,23.14,1024.42,Debit Card,Online
+06-02-2024,02:36:00,Nuts,Snacks,2,40.24,80.48,South,UK,Online,7.09,19.14,Cash,Offline
+08-02-2024,00:12:00,Cheese,Dairy,87,147.81,12859.47,West,UK,Online,29.09,2358.57,Cash,Online
+02-02-2024,02:46:00,Cheese,Dairy,95,129.38,12291.1,West,UK,Online,7.5,3837.05,Cash,Online
+21-03-2024,16:16:00,Cheese,Dairy,78,144.29,11254.62,South,UK,Retailer,13.1,1677,Credit Card,Wholesale
+27-01-2024,12:46:00,Yogurt,Dairy,78,134.88,10520.64,North,UK,Retailer,27.18,2650.44,UPI,Wholesale
+27-01-2024,11:43:00,Protein Bars,Snacks,12,120.78,1449.36,North,Canada,Online,1.77,198.36,Cash,Online
+27-01-2024,07:30:00,Nuts,Snacks,16,116.47,1863.52,West,Germany,Online,20.67,411.84,Credit Card,Offline
+27-01-2024,10:07:00,Bread,Bakery,75,94.6,7095,East,USA,Wholesaler,29.7,2526,Debit Card,Offline
+28-01-2024,20:03:00,Juice,Beverages,32,115.03,3680.96,East,Canada,Online,12.71,1112.64,Debit Card,Retail Store
+28-01-2024,11:01:00,Butter,Dairy,72,148.61,10699.92,West,USA,Online,10.46,2700.72,PayPal,Wholesale
+28-01-2024,01:39:00,Cookies,Bakery,92,33.83,3112.36,South,India,Online,17.53,783.84,UPI,Online
+28-01-2024,02:11:00,Popcorn,Snacks,72,112.28,8084.16,South,Australia,Online,18.64,876.24,Cash,Retail Store
+29-01-2024,13:51:00,Nuts,Snacks,44,66.84,2940.96,West,Germany,Wholesaler,6.95,371.36,Credit Card,Retail Store
+29-01-2024,01:41:00,Chips,Snacks,24,38.22,917.28,West,India,Online,6.37,157.2,Cash,Wholesale
+29-01-2024,08:21:00,Cheese,Dairy,22,135.32,2977.04,East,USA,Wholesaler,16.41,840.62,Debit Card,Offline
+29-01-2024,19:01:00,Milk,Dairy,55,92.51,5088.05,West,USA,Online,1.15,792.55,UPI,Online
+29-01-2024,08:05:00,Yogurt,Dairy,28,47.11,1319.08,North,India,Retailer,3.75,324.24,Credit Card,Offline
+30-01-2024,18:12:00,Chips,Snacks,99,116.26,11509.74,South,Germany,Retailer,8.6,2657.16,Debit Card,Online
+06-03-2024,15:34:00,Butter,Dairy,98,94.86,9296.28,East,UK,Retailer,14.91,1524.88,PayPal,Online
+30-01-2024,09:18:00,Nuts,Snacks,5,135.91,679.55,South,USA,Retailer,4.03,268.3,Debit Card,Wholesale
+21-03-2024,22:34:00,Cheese,Dairy,70,129.59,9071.3,East,UK,Wholesaler,21.47,1865.5,Credit Card,Wholesale
+20-01-2024,01:53:00,Butter,Dairy,95,94.52,8979.4,East,UK,Wholesaler,21.97,2432.95,Credit Card,Online
+06-02-2024,09:08:00,Butter,Dairy,58,125.57,7283.06,North,UK,Online,0.61,1278.9,Cash,Online
+30-01-2024,03:29:00,Juice,Beverages,45,81.56,3670.2,East,India,Retailer,13.71,924.3,PayPal,Online
+30-01-2024,20:25:00,Muffins,Bakery,66,89.01,5874.66,North,Australia,Online,12.31,1350.36,PayPal,Retail Store
+30-01-2024,11:29:00,Nuts,Snacks,18,34.7,624.6,South,Canada,Online,26.76,151.38,UPI,Wholesale
+30-01-2024,23:40:00,Bread,Bakery,78,85.4,6661.2,West,Germany,Retailer,16.29,2137.2,Credit Card,Offline
+01-03-2024,20:44:00,Yogurt,Dairy,64,110.36,7063.04,West,UK,Online,16.28,879.36,UPI,Retail Store
+30-01-2024,06:06:00,Tea,Beverages,13,9.94,129.22,North,Germany,Online,11.53,35.75,Debit Card,Retail Store
+30-01-2024,09:17:00,Coffee,Beverages,96,106.16,10191.36,North,India,Online,10.61,1988.16,PayPal,Retail Store
+30-01-2024,17:10:00,Cakes,Bakery,9,148.01,1332.09,East,USA,Online,14.43,460.98,UPI,Offline
+30-01-2024,03:10:00,Juice,Beverages,6,13.25,79.5,West,India,Retailer,13.69,27.42,PayPal,Online
+26-02-2024,02:56:00,Butter,Dairy,59,117.2,6914.8,East,UK,Wholesaler,20.35,1761.74,PayPal,Retail Store
+30-01-2024,03:41:00,Yogurt,Dairy,33,120.98,3992.34,East,Canada,Retailer,9.19,1016.07,Credit Card,Wholesale
+30-01-2024,16:25:00,Cheese,Dairy,100,100.39,10039,North,Germany,Online,8.11,2702,Debit Card,Retail Store
+30-01-2024,12:08:00,Popcorn,Snacks,24,6.24,149.76,West,Canada,Online,24.46,18.48,Debit Card,Offline
+20-03-2024,01:00:00,Butter,Dairy,96,70.25,6744,North,UK,Retailer,15.97,1983.36,Credit Card,Retail Store
+31-01-2024,02:53:00,Yogurt,Dairy,95,51.73,4914.35,North,India,Retailer,27.85,521.55,Cash,Retail Store
+31-01-2024,13:58:00,Muffins,Bakery,11,96.7,1063.7,East,Germany,Retailer,5.19,383.02,Cash,Wholesale
+31-01-2024,07:55:00,Tea,Beverages,75,23.57,1767.75,West,USA,Retailer,7.29,678,PayPal,Retail Store
+31-01-2024,10:29:00,Coffee,Beverages,3,26.22,78.66,North,Canada,Wholesaler,20.57,12.99,UPI,Wholesale
+31-01-2024,05:13:00,Protein Bars,Snacks,33,147.11,4854.63,West,Australia,Online,8.48,664.29,UPI,Wholesale
+31-01-2024,01:40:00,Popcorn,Snacks,36,131.09,4719.24,East,Germany,Online,11.08,1287,UPI,Offline
+31-01-2024,12:42:00,Protein Bars,Snacks,59,136.06,8027.54,West,Germany,Retailer,20.67,2803.68,Debit Card,Retail Store
+24-03-2024,19:32:00,Milk,Dairy,55,121.96,6707.8,East,UK,Wholesaler,10.72,1039.5,PayPal,Offline
+31-01-2024,12:29:00,Milk,Dairy,30,43.33,1299.9,West,Australia,Retailer,23.26,439.2,UPI,Offline
+31-01-2024,14:22:00,Coffee,Beverages,23,35,805,North,Australia,Retailer,9.83,143.29,Debit Card,Offline
+31-01-2024,09:38:00,Milk,Dairy,37,95.25,3524.25,North,Australia,Wholesaler,0.65,752.58,Debit Card,Retail Store
+31-01-2024,01:09:00,Popcorn,Snacks,39,121.08,4722.12,South,Germany,Retailer,7.06,862.29,Debit Card,Wholesale
+31-01-2024,15:43:00,Cookies,Bakery,55,53.63,2949.65,South,Canada,Online,10.84,462,UPI,Wholesale
+07-02-2024,20:08:00,Yogurt,Dairy,79,74.97,5922.63,North,UK,Wholesaler,11.9,1738,Cash,Offline
+31-01-2024,17:13:00,Soft Drink,Beverages,79,8.92,704.68,North,India,Online,14.75,259.12,UPI,Wholesale
+02-01-2024,13:11:00,Milk,Dairy,56,89.68,5022.08,West,UK,Retailer,19.96,1634.64,Credit Card,Retail Store
+01-02-2024,18:20:00,Chips,Snacks,31,57.24,1774.44,East,India,Wholesaler,14.67,695.95,Cash,Wholesale
+01-02-2024,05:55:00,Yogurt,Dairy,45,115.49,5197.05,East,Germany,Online,5.58,550.8,UPI,Offline
+01-02-2024,20:41:00,Milk,Dairy,81,41.76,3382.56,North,India,Retailer,24.17,1015.74,PayPal,Wholesale
+01-02-2024,01:03:00,Protein Bars,Snacks,6,85.89,515.34,West,Canada,Wholesaler,0.11,80.1,Credit Card,Online
+01-02-2024,22:36:00,Cookies,Bakery,55,6.73,370.15,South,Germany,Online,26.37,91.85,Cash,Retail Store
+26-02-2024,13:33:00,Milk,Dairy,36,138.98,5003.28,North,UK,Wholesaler,13.09,1683.36,Cash,Online
+01-02-2024,08:36:00,Soft Drink,Beverages,19,133.88,2543.72,North,Germany,Wholesaler,3.13,330.41,Credit Card,Retail Store
+01-02-2024,03:26:00,Coffee,Beverages,35,136.97,4793.95,East,Canada,Wholesaler,17.11,1715.7,PayPal,Wholesale
+01-02-2024,14:40:00,Coffee,Beverages,74,75.37,5577.38,South,Canada,Online,13.83,1983.94,Cash,Online
+01-02-2024,19:02:00,Popcorn,Snacks,25,22.45,561.25,North,Germany,Retailer,1.44,158.5,Cash,Retail Store
+01-02-2024,15:02:00,Bread,Bakery,95,87.33,8296.35,East,Canada,Retailer,1.67,2455.75,PayPal,Wholesale
+01-02-2024,01:31:00,Nuts,Snacks,48,149.6,7180.8,North,Australia,Retailer,28.78,1964.16,Debit Card,Wholesale
+01-02-2024,00:39:00,Juice,Beverages,70,41.3,2891,South,India,Retailer,17.6,763,PayPal,Online
+01-02-2024,08:44:00,Popcorn,Snacks,2,138.7,277.4,North,USA,Retailer,8.43,98.76,Debit Card,Wholesale
+02-02-2024,16:27:00,Cookies,Bakery,42,101.74,4273.08,West,USA,Online,15.79,942.06,Debit Card,Online
+02-02-2024,04:54:00,Coffee,Beverages,85,101.71,8645.35,South,USA,Online,10.53,1504.5,UPI,Retail Store
+02-02-2024,15:59:00,Muffins,Bakery,89,112.53,10015.17,North,Australia,Online,1.48,2525.82,PayPal,Retail Store
+02-02-2024,02:45:00,Soft Drink,Beverages,60,138.6,8316,South,India,Retailer,29.67,2832,UPI,Retail Store
+14-03-2024,18:53:00,Butter,Dairy,38,111.77,4247.26,South,UK,Retailer,29.23,1077.68,Cash,Online
+02-02-2024,04:54:00,Popcorn,Snacks,55,33.45,1839.75,West,USA,Wholesaler,5.14,436.15,Cash,Retail Store
+02-02-2024,07:31:00,Bread,Bakery,85,73.35,6234.75,West,Australia,Online,23.44,2066.35,Debit Card,Offline
+02-02-2024,07:20:00,Cakes,Bakery,40,134.74,5389.6,East,Germany,Online,30,1472.8,PayPal,Retail Store
+02-02-2024,10:36:00,Muffins,Bakery,58,133.84,7762.72,South,USA,Retailer,0.68,2263.74,Credit Card,Online
+14-02-2024,01:42:00,Butter,Dairy,54,75.62,4083.48,South,UK,Wholesaler,2.41,1402.38,Credit Card,Offline
+02-02-2024,11:55:00,Soft Drink,Beverages,51,70.6,3600.6,East,Canada,Wholesaler,16.99,584.97,Debit Card,Online
+02-02-2024,06:51:00,Protein Bars,Snacks,55,108.11,5946.05,North,USA,Wholesaler,6.05,1953.6,Credit Card,Offline
+02-02-2024,04:07:00,Soft Drink,Beverages,64,15.68,1003.52,South,Australia,Wholesaler,1.17,299.52,PayPal,Retail Store
+03-02-2024,07:39:00,Chips,Snacks,82,51.19,4197.58,West,India,Online,11.51,954.48,Credit Card,Retail Store
+03-02-2024,21:11:00,Soft Drink,Beverages,72,118.75,8550,North,Australia,Online,20.12,2010.24,UPI,Retail Store
+03-02-2024,09:47:00,Yogurt,Dairy,77,67.82,5222.14,North,India,Online,7.77,1369.06,Cash,Offline
+03-02-2024,17:03:00,Bread,Bakery,97,135.19,13113.43,South,USA,Wholesaler,1.22,2787.78,PayPal,Online
+03-02-2024,09:41:00,Soft Drink,Beverages,42,145.06,6092.52,West,Germany,Retailer,24.52,1586.34,Credit Card,Retail Store
+03-02-2024,08:39:00,Protein Bars,Snacks,6,20.94,125.64,East,Germany,Online,3.79,17.88,PayPal,Online
+03-02-2024,03:43:00,Bread,Bakery,97,38.59,3743.23,West,India,Retailer,1.47,600.43,UPI,Wholesale
+03-02-2024,18:05:00,Cookies,Bakery,33,26.22,865.26,North,USA,Retailer,26.14,251.13,Cash,Wholesale
+03-02-2024,23:08:00,Cheese,Dairy,20,89.83,1796.6,North,Canada,Wholesaler,19.92,697.2,Debit Card,Retail Store
+03-02-2024,06:33:00,Milk,Dairy,88,105.98,9326.24,West,India,Wholesaler,8.72,1110.56,PayPal,Online
+03-02-2024,06:21:00,Muffins,Bakery,38,141.35,5371.3,West,India,Wholesaler,14.87,664.62,Debit Card,Offline
+27-01-2024,02:01:00,Milk,Dairy,60,65.7,3942,East,UK,Wholesaler,15.04,1521,UPI,Offline
+03-02-2024,18:40:00,Yogurt,Dairy,35,139.98,4899.3,West,Canada,Retailer,26.01,970.2,UPI,Online
+03-02-2024,17:38:00,Cakes,Bakery,31,37.57,1164.67,East,Germany,Online,3.49,275.28,Debit Card,Retail Store
+03-02-2024,12:57:00,Soft Drink,Beverages,29,40.61,1177.69,West,Germany,Wholesaler,27.18,213.44,Credit Card,Offline
+03-02-2024,15:26:00,Chips,Snacks,55,19.3,1061.5,East,USA,Retailer,23.77,200.2,Debit Card,Offline
+03-02-2024,20:02:00,Popcorn,Snacks,100,46.91,4691,North,India,Retailer,25.44,1309,Debit Card,Wholesale
+04-02-2024,14:26:00,Cheese,Dairy,48,108.01,5184.48,South,Canada,Wholesaler,9.68,1615.2,Cash,Offline
+04-02-2024,07:32:00,Bread,Bakery,34,68.27,2321.18,North,Canada,Retailer,28.04,655.86,Debit Card,Offline
+04-02-2024,15:11:00,Tea,Beverages,73,76.84,5609.32,North,USA,Wholesaler,2.04,1933.04,UPI,Retail Store
+04-02-2024,15:59:00,Juice,Beverages,19,12.24,232.56,West,Australia,Online,5.2,61.37,UPI,Online
+13-01-2024,00:29:00,Yogurt,Dairy,74,49.03,3628.22,West,UK,Retailer,15.35,503.94,Debit Card,Wholesale
+04-02-2024,20:56:00,Popcorn,Snacks,84,26.73,2245.32,South,Australia,Retailer,26.35,355.32,Debit Card,Online
+01-02-2024,18:45:00,Yogurt,Dairy,33,100.61,3320.13,North,UK,Wholesaler,11.26,741.51,Debit Card,Online
+04-02-2024,05:04:00,Chips,Snacks,12,149.8,1797.6,East,Australia,Retailer,25.99,588.24,Debit Card,Offline
+25-01-2024,20:06:00,Cheese,Dairy,30,108.01,3240.3,West,UK,Online,24.83,545.4,Credit Card,Offline
+04-02-2024,08:02:00,Popcorn,Snacks,93,136.9,12731.7,East,Australia,Retailer,9.88,3348.93,Credit Card,Online
+04-02-2024,06:27:00,Bread,Bakery,37,59.22,2191.14,East,India,Retailer,9.32,828.06,Credit Card,Wholesale
+04-02-2024,18:28:00,Juice,Beverages,91,143.33,13043.03,East,India,Online,11.94,3289.65,Debit Card,Online
+04-02-2024,17:39:00,Cheese,Dairy,30,37.55,1126.5,North,Canada,Retailer,22.71,356.1,Credit Card,Wholesale
+04-02-2024,13:21:00,Juice,Beverages,32,12.21,390.72,South,Germany,Retailer,12.65,94.08,Credit Card,Offline
+05-02-2024,17:39:00,Coffee,Beverages,19,101.62,1930.78,East,USA,Retailer,24.07,576.84,Credit Card,Online
+05-02-2024,20:55:00,Chips,Snacks,78,76.41,5959.98,East,Germany,Retailer,5.39,2133.3,UPI,Online
+05-02-2024,23:34:00,Soft Drink,Beverages,72,45.57,3281.04,East,USA,Retailer,11.97,906.48,Cash,Online
+05-02-2024,01:09:00,Muffins,Bakery,95,59.38,5641.1,South,Germany,Retailer,1.19,1177.05,Debit Card,Retail Store
+05-02-2024,08:41:00,Cakes,Bakery,54,144.67,7812.18,North,Australia,Online,23.88,1651.32,Credit Card,Offline
+05-02-2024,06:31:00,Protein Bars,Snacks,88,29.27,2575.76,East,Canada,Retailer,0.29,924,Cash,Online
+05-02-2024,22:32:00,Muffins,Bakery,73,145.99,10657.27,South,India,Online,0.24,1260.71,Credit Card,Online
+05-02-2024,19:10:00,Nuts,Snacks,41,17.16,703.56,East,Australia,Wholesaler,9.1,251.33,Credit Card,Offline
+05-02-2024,19:19:00,Chips,Snacks,42,138.47,5815.74,East,USA,Wholesaler,20.79,2284.38,Cash,Wholesale
+17-02-2024,15:06:00,Milk,Dairy,36,83.18,2994.48,North,UK,Retailer,19.59,1121.04,Cash,Retail Store
+05-02-2024,14:44:00,Butter,Dairy,18,85.74,1543.32,West,Australia,Retailer,17.8,476.46,UPI,Online
+05-02-2024,14:36:00,Nuts,Snacks,65,84.55,5495.75,South,Australia,Retailer,10.66,2005.9,PayPal,Retail Store
+11-01-2024,09:24:00,Butter,Dairy,23,128.67,2959.41,West,UK,Wholesaler,14.14,1056.85,Credit Card,Online
+18-03-2024,09:59:00,Cheese,Dairy,53,52.21,2767.13,North,UK,Retailer,22.14,894.11,Debit Card,Online
+06-02-2024,18:12:00,Tea,Beverages,55,119.07,6548.85,South,USA,Retailer,28.95,1010.35,PayPal,Wholesale
+30-01-2024,06:51:00,Butter,Dairy,55,48.12,2646.6,South,UK,Online,27.08,445.5,UPI,Online
+06-02-2024,07:05:00,Protein Bars,Snacks,43,114.11,4906.73,West,USA,Online,11.31,1375.57,Debit Card,Wholesale
+06-02-2024,07:52:00,Muffins,Bakery,14,24.69,345.66,South,Germany,Online,19.01,77.14,Cash,Retail Store
+06-02-2024,03:11:00,Muffins,Bakery,47,85.3,4009.1,South,Australia,Wholesaler,25.93,884.07,Cash,Retail Store
+06-02-2024,18:39:00,Milk,Dairy,56,57.64,3227.84,South,India,Online,12.49,1156.4,Cash,Online
+06-02-2024,16:44:00,Bread,Bakery,82,43.22,3544.04,East,Australia,Online,9.67,386.22,UPI,Wholesale
+17-01-2024,09:38:00,Cheese,Dairy,64,37.75,2416,West,UK,Retailer,18.17,659.84,UPI,Retail Store
+06-02-2024,04:15:00,Muffins,Bakery,63,38.36,2416.68,South,India,Wholesaler,1.58,927.99,Debit Card,Offline
+06-02-2024,10:15:00,Coffee,Beverages,45,81.64,3673.8,West,USA,Online,18.15,1216.35,Credit Card,Retail Store
+06-02-2024,08:47:00,Bread,Bakery,40,23.76,950.4,East,Australia,Online,3.78,143.6,Cash,Online
+10-03-2024,09:15:00,Butter,Dairy,19,116.2,2207.8,West,UK,Wholesaler,10.66,794.2,UPI,Online
+06-02-2024,18:29:00,Chips,Snacks,19,128.25,2436.75,South,Canada,Wholesaler,4.16,847.02,Debit Card,Offline
+06-02-2024,09:41:00,Yogurt,Dairy,36,56.76,2043.36,West,UK,Wholesaler,11.04,233.28,Cash,Wholesale
+03-03-2024,09:17:00,Butter,Dairy,28,70.94,1986.32,South,UK,Wholesaler,12.98,505.68,Cash,Retail Store
+07-02-2024,01:21:00,Yogurt,Dairy,53,6.83,361.99,South,Germany,Online,8.11,86.92,PayPal,Retail Store
+07-02-2024,03:34:00,Yogurt,Dairy,80,146.94,11755.2,West,India,Retailer,5.3,3887.2,Credit Card,Wholesale
+07-02-2024,05:58:00,Milk,Dairy,46,128.58,5914.68,North,Australia,Retailer,27.83,1110.9,UPI,Retail Store
+02-01-2024,03:21:00,Butter,Dairy,14,111.62,1562.68,West,UK,Wholesaler,2.29,376.32,UPI,Online
+07-02-2024,01:10:00,Butter,Dairy,92,133.29,12262.68,North,Germany,Retailer,12.71,4654.28,PayPal,Online
+07-02-2024,14:13:00,Popcorn,Snacks,99,86.34,8547.66,West,USA,Online,4.58,1890.9,Credit Card,Offline
+30-01-2024,04:33:00,Cheese,Dairy,10,146.28,1462.8,North,UK,Wholesaler,17.94,514.7,PayPal,Retail Store
+07-02-2024,20:34:00,Bread,Bakery,50,21.07,1053.5,North,USA,Wholesaler,15.05,345.5,Credit Card,Offline
+07-02-2024,08:09:00,Butter,Dairy,72,44.19,3181.68,South,India,Online,14.07,1184.4,PayPal,Online
+30-03-2024,14:11:00,Yogurt,Dairy,43,29.46,1266.78,East,UK,Retailer,23.32,188.77,Debit Card,Wholesale
+08-02-2024,16:26:00,Butter,Dairy,3,56.2,168.6,South,Canada,Retailer,13.67,46.53,Cash,Wholesale
+08-02-2024,21:56:00,Popcorn,Snacks,79,47.64,3763.56,North,Canada,Wholesaler,5.36,842.93,Credit Card,Wholesale
+08-02-2024,06:20:00,Coffee,Beverages,4,44.45,177.8,North,India,Online,2.96,56.2,Credit Card,Retail Store
+08-02-2024,08:19:00,Soft Drink,Beverages,98,141.26,13843.48,East,India,Online,15.29,5133.24,PayPal,Wholesale
+08-02-2024,21:28:00,Milk,Dairy,91,45.72,4160.52,East,India,Online,22.99,1472.38,UPI,Wholesale
+08-02-2024,10:44:00,Muffins,Bakery,76,16.4,1246.4,South,Germany,Online,10.07,186.96,UPI,Retail Store
+08-02-2024,06:50:00,Nuts,Snacks,2,83.5,167,East,India,Wholesaler,12.15,21.28,PayPal,Wholesale
+08-02-2024,11:05:00,Chips,Snacks,14,101.75,1424.5,West,India,Wholesaler,24.74,381.92,PayPal,Online
+11-03-2024,18:23:00,Milk,Dairy,49,22.77,1115.73,North,UK,Retailer,14.67,123.97,UPI,Online
+08-02-2024,07:48:00,Bread,Bakery,58,144.81,8398.98,East,USA,Online,16.4,1654.16,Credit Card,Online
+08-02-2024,19:27:00,Soft Drink,Beverages,30,43.04,1291.2,West,Germany,Retailer,27.47,347.7,Cash,Wholesale
+11-02-2024,11:51:00,Cheese,Dairy,80,13.3,1064,South,UK,Retailer,16.92,184.8,Cash,Retail Store
+08-02-2024,02:40:00,Protein Bars,Snacks,46,126.31,5810.26,South,USA,Wholesaler,13.67,2063.1,Debit Card,Wholesale
+08-02-2024,00:19:00,Cookies,Bakery,97,32,3104,West,Germany,Wholesaler,11.62,1085.43,Debit Card,Wholesale
+09-02-2024,05:43:00,Nuts,Snacks,19,85.67,1627.73,North,Germany,Wholesaler,8.41,414.58,UPI,Wholesale
+09-02-2024,01:51:00,Popcorn,Snacks,65,74.93,4870.45,South,USA,Wholesaler,24.32,1000.35,Debit Card,Wholesale
+09-02-2024,12:35:00,Tea,Beverages,78,133.03,10376.34,West,India,Wholesaler,19.81,3162.9,PayPal,Retail Store
+09-02-2024,05:16:00,Milk,Dairy,65,43.4,2821,South,Australia,Retailer,16.11,397.8,PayPal,Offline
+09-02-2024,13:32:00,Milk,Dairy,44,10.73,472.12,East,Australia,Retailer,5.05,140.8,Credit Card,Offline
+09-02-2024,22:33:00,Cheese,Dairy,28,113.31,3172.68,East,Germany,Wholesaler,20.85,953.68,Credit Card,Online
+09-02-2024,03:52:00,Cookies,Bakery,29,144.85,4200.65,North,Germany,Retailer,4.64,653.37,PayPal,Retail Store
+09-02-2024,12:46:00,Milk,Dairy,28,128.35,3593.8,West,India,Online,16.75,708.12,Debit Card,Retail Store
+09-02-2024,10:12:00,Tea,Beverages,89,99.4,8846.6,East,Canada,Retailer,5.13,904.24,UPI,Retail Store
+09-02-2024,03:10:00,Butter,Dairy,33,55.27,1823.91,East,Canada,Online,19.41,228.36,PayPal,Retail Store
+09-02-2024,03:08:00,Milk,Dairy,99,135.15,13379.85,North,Canada,Wholesaler,0.95,3375.9,PayPal,Retail Store
+09-02-2024,17:01:00,Popcorn,Snacks,20,8.75,175,South,Canada,Retailer,7.61,31.4,Cash,Offline
+17-02-2024,15:56:00,Butter,Dairy,91,10.65,969.15,North,UK,Wholesaler,10.88,131.95,Credit Card,Offline
+10-02-2024,14:24:00,Juice,Beverages,98,92.1,9025.8,West,Australia,Retailer,0.54,2741.06,PayPal,Online
+10-02-2024,12:00:00,Juice,Beverages,71,34.98,2483.58,South,Canada,Online,25.31,539.6,Credit Card,Online
+02-03-2024,16:20:00,Butter,Dairy,29,30.14,874.06,North,UK,Retailer,14.88,294.35,Credit Card,Online
+26-01-2024,15:43:00,Yogurt,Dairy,15,52.02,780.3,West,UK,Wholesaler,17.66,288.45,Debit Card,Online
+10-02-2024,20:28:00,Nuts,Snacks,51,15.5,790.5,East,Germany,Retailer,21.33,166.77,Debit Card,Online
+19-02-2024,21:07:00,Butter,Dairy,8,96.26,770.08,North,UK,Retailer,23.44,175.36,Credit Card,Retail Store
+10-02-2024,01:59:00,Muffins,Bakery,68,33.85,2301.8,East,Australia,Retailer,19.89,386.24,UPI,Retail Store
+10-02-2024,02:14:00,Chips,Snacks,33,31.84,1050.72,West,Australia,Wholesaler,26.96,187.44,Cash,Wholesale
+26-01-2024,22:17:00,Butter,Dairy,11,55.21,607.31,South,UK,Wholesaler,25.83,174.02,Credit Card,Retail Store
+11-02-2024,20:12:00,Popcorn,Snacks,39,88.6,3455.4,West,India,Online,22.59,934.44,UPI,Online
+11-02-2024,01:52:00,Cakes,Bakery,17,145.36,2471.12,South,India,Retailer,14.59,897.43,Cash,Wholesale
+11-02-2024,18:36:00,Cakes,Bakery,76,92.27,7012.52,East,India,Retailer,22.63,2053.52,UPI,Retail Store
+11-02-2024,11:38:00,Popcorn,Snacks,53,81.59,4324.27,South,Canada,Retailer,27.11,857.01,Debit Card,Retail Store
+11-02-2024,03:46:00,Muffins,Bakery,6,119.5,717,West,Germany,Wholesaler,22.76,174,Cash,Wholesale
+11-02-2024,15:19:00,Milk,Dairy,40,87.99,3519.6,South,India,Wholesaler,1.96,742,PayPal,Retail Store
+11-02-2024,05:34:00,Tea,Beverages,28,16.6,464.8,West,USA,Retailer,1.43,99.4,UPI,Offline
+11-02-2024,23:25:00,Cakes,Bakery,13,110.09,1431.17,East,Canada,Online,25.88,441.87,PayPal,Wholesale
+11-02-2024,16:25:00,Cheese,Dairy,63,23.83,1501.29,South,USA,Wholesaler,3.38,368.55,PayPal,Retail Store
+11-02-2024,05:09:00,Protein Bars,Snacks,8,15.14,121.12,East,Canada,Retailer,24.01,19.36,Cash,Retail Store
+11-02-2024,15:46:00,Popcorn,Snacks,65,68.66,4462.9,South,Canada,Wholesaler,27.14,539.5,UPI,Offline
+06-02-2024,19:54:00,Milk,Dairy,23,25.32,582.36,South,UK,Wholesaler,24.13,120.75,UPI,Online
+11-02-2024,01:25:00,Juice,Beverages,27,143.57,3876.39,West,Australia,Online,15.25,1112.13,Debit Card,Retail Store
+11-02-2024,13:23:00,Chips,Snacks,14,78.22,1095.08,South,India,Online,1.03,132.86,Credit Card,Retail Store
+11-02-2024,21:11:00,Cheese,Dairy,98,148.8,14582.4,East,Germany,Retailer,22.99,2097.2,PayPal,Wholesale
+11-02-2024,14:52:00,Nuts,Snacks,50,59.68,2984,North,India,Retailer,21.15,1056,Debit Card,Wholesale
+12-02-2024,01:58:00,Cheese,Dairy,8,127.3,1018.4,South,India,Wholesaler,23.41,204.8,PayPal,Retail Store
+12-02-2024,04:01:00,Popcorn,Snacks,59,10.47,617.73,West,India,Retailer,14.18,246.03,UPI,Wholesale
+12-02-2024,12:41:00,Chips,Snacks,52,45.78,2380.56,West,Australia,Retailer,23.89,250.12,Credit Card,Online
+12-02-2024,04:56:00,Cakes,Bakery,15,13.68,205.2,West,USA,Retailer,25.38,53.7,Debit Card,Online
+12-02-2024,14:26:00,Bread,Bakery,70,84.79,5935.3,East,Germany,Retailer,8.03,1132.6,UPI,Wholesale
+13-02-2024,08:39:00,Nuts,Snacks,100,78.15,7815,South,Australia,Wholesaler,8.32,1814,UPI,Online
+13-02-2024,03:11:00,Cookies,Bakery,37,7.2,266.4,South,Australia,Retailer,19.67,91.02,PayPal,Retail Store
+13-02-2024,19:18:00,Coffee,Beverages,31,116.69,3617.39,North,India,Wholesaler,24.96,1369.58,Debit Card,Offline
+13-02-2024,02:48:00,Cookies,Bakery,45,33.43,1504.35,West,Canada,Wholesaler,23.45,329.85,Cash,Offline
+26-02-2024,23:52:00,Milk,Dairy,65,7.44,483.6,South,UK,Online,21.14,191.75,PayPal,Wholesale
+13-02-2024,02:52:00,Cakes,Bakery,85,107.45,9133.25,East,Australia,Retailer,25.76,1582.7,UPI,Retail Store
+10-02-2024,04:09:00,Yogurt,Dairy,22,17.14,377.08,East,UK,Retailer,1.03,94.82,Cash,Wholesale
+14-02-2024,08:27:00,Milk,Dairy,33,115.93,3825.69,East,Germany,Retailer,11.25,587.4,Cash,Online
+14-02-2024,16:41:00,Cakes,Bakery,7,20.88,146.16,South,USA,Wholesaler,28,19.11,Credit Card,Retail Store
+14-02-2024,16:06:00,Milk,Dairy,11,97.93,1077.23,North,Canada,Online,1.85,198.88,Cash,Online
+26-01-2024,06:11:00,Yogurt,Dairy,11,27.3,300.3,North,UK,Wholesaler,20.2,89.21,Cash,Online
+14-02-2024,11:06:00,Chips,Snacks,29,102.87,2983.23,West,USA,Online,14.9,1136.22,PayPal,Offline
+14-02-2024,16:48:00,Muffins,Bakery,36,103.64,3731.04,West,USA,Online,12.06,1384.92,Credit Card,Offline
+14-02-2024,22:29:00,Tea,Beverages,56,116.71,6535.76,North,Canada,Online,2.23,823.76,Cash,Wholesale
+14-02-2024,12:35:00,Tea,Beverages,19,21.8,414.2,East,India,Online,23.03,67.83,Debit Card,Wholesale
+14-02-2024,18:07:00,Tea,Beverages,61,106.95,6523.95,North,Germany,Online,24.49,1643.34,Credit Card,Online
+14-02-2024,20:15:00,Cheese,Dairy,69,119.9,8273.1,North,Canada,Retailer,22.67,1989.96,Debit Card,Online
+14-02-2024,05:33:00,Protein Bars,Snacks,80,26.78,2142.4,West,Australia,Retailer,25.52,660.8,Debit Card,Online
+14-02-2024,00:30:00,Milk,Dairy,100,27.29,2729,West,USA,Wholesaler,24.3,919,PayPal,Online
+14-02-2024,16:18:00,Butter,Dairy,5,143.52,717.6,North,India,Wholesaler,26.82,152.85,Debit Card,Offline
+14-02-2024,18:47:00,Cheese,Dairy,45,108.02,4860.9,East,Germany,Wholesaler,6.19,1121.4,Credit Card,Offline
+14-02-2024,12:40:00,Yogurt,Dairy,5,123.87,619.35,South,India,Retailer,14.63,212.25,Credit Card,Offline
+14-02-2024,20:54:00,Juice,Beverages,1,43.51,43.51,East,Germany,Retailer,25.66,15.83,Credit Card,Retail Store
+14-02-2024,02:54:00,Coffee,Beverages,38,117.51,4465.38,South,India,Retailer,13.57,696.16,Debit Card,Offline
+14-02-2024,07:07:00,Coffee,Beverages,100,40.97,4097,West,Germany,Wholesaler,21.07,418,PayPal,Online
+14-02-2024,20:19:00,Cakes,Bakery,26,66.85,1738.1,South,Canada,Retailer,5.16,553.54,Debit Card,Wholesale
+14-02-2024,03:05:00,Nuts,Snacks,90,36.22,3259.8,East,India,Wholesaler,5.29,955.8,UPI,Offline
+15-02-2024,20:32:00,Muffins,Bakery,98,41.26,4043.48,West,India,Online,21.5,1026.06,Credit Card,Offline
+19-02-2024,15:22:00,Butter,Dairy,22,12.22,268.84,West,UK,Retailer,13.24,95.92,Cash,Retail Store
+15-02-2024,09:36:00,Milk,Dairy,50,136.71,6835.5,South,Germany,Wholesaler,4.46,1161.5,Debit Card,Offline
+15-02-2024,06:00:00,Coffee,Beverages,98,98.07,9610.86,West,Canada,Wholesaler,11.21,2619.54,Credit Card,Online
+15-02-2024,06:49:00,Protein Bars,Snacks,100,64.25,6425,West,Germany,Online,17.2,2048,PayPal,Wholesale
+15-02-2024,02:44:00,Cookies,Bakery,45,138.83,6247.35,East,Canada,Online,19.14,1413,Debit Card,Online
+05-02-2024,00:55:00,Yogurt,Dairy,16,11.22,179.52,South,UK,Retailer,17.52,68.96,Debit Card,Online
+16-02-2024,07:08:00,Popcorn,Snacks,96,46.59,4472.64,West,Canada,Retailer,6.56,1149.12,Cash,Retail Store
+16-02-2024,07:06:00,Bread,Bakery,31,72.52,2248.12,East,Australia,Online,19.33,512.74,PayPal,Offline
+16-02-2024,08:37:00,Soft Drink,Beverages,15,9.17,137.55,South,Canada,Retailer,19.17,29.85,Credit Card,Online
+25-01-2024,06:29:00,Butter,Dairy,2,59.41,118.82,South,UK,Wholesaler,20.45,34.06,Cash,Offline
+16-02-2024,03:27:00,Yogurt,Dairy,90,90.53,8147.7,South,Canada,Retailer,6.58,2747.7,Credit Card,Retail Store
+16-02-2024,11:52:00,Coffee,Beverages,29,110.4,3201.6,East,Canada,Retailer,13.07,1216.26,Debit Card,Online
+31-01-2024,18:20:00,Coffee,Beverages,97,98.81,9584.57,North,UK,Wholesaler,13.75,2403.66,PayPal,Offline
+16-02-2024,00:22:00,Protein Bars,Snacks,11,94.85,1043.35,East,Australia,Online,8.05,339.02,Debit Card,Wholesale
+30-01-2024,14:05:00,Soft Drink,Beverages,73,127.27,9290.71,East,UK,Retailer,25.38,3066,Credit Card,Online
+17-02-2024,13:56:00,Chips,Snacks,61,116.32,7095.52,North,Australia,Retailer,13.6,2479.65,Credit Card,Retail Store
+17-02-2024,05:16:00,Muffins,Bakery,55,27.42,1508.1,South,Germany,Wholesaler,2.41,222.2,Credit Card,Offline
+17-02-2024,13:08:00,Cakes,Bakery,81,86.14,6977.34,East,Canada,Retailer,9.49,2355.48,UPI,Online
+17-02-2024,15:19:00,Muffins,Bakery,64,22.22,1422.08,South,Australia,Online,11.87,337.92,Cash,Wholesale
+17-02-2024,17:14:00,Protein Bars,Snacks,15,68.48,1027.2,South,Germany,Wholesaler,8.26,216.6,PayPal,Online
+17-02-2024,09:56:00,Coffee,Beverages,40,43.69,1747.6,North,Canada,Online,15.82,216.4,Credit Card,Retail Store
+17-02-2024,00:11:00,Tea,Beverages,41,14.85,608.85,South,Australia,Retailer,17.78,90.2,Credit Card,Retail Store
+17-02-2024,13:46:00,Tea,Beverages,42,40.14,1685.88,West,Australia,Retailer,14.77,572.04,UPI,Offline
+17-02-2024,02:56:00,Milk,Dairy,28,134.39,3762.92,South,India,Online,19.61,1336.72,PayPal,Offline
+17-02-2024,06:17:00,Coffee,Beverages,62,105.64,6549.68,North,Canada,Online,1.55,931.86,PayPal,Retail Store
+01-03-2024,09:27:00,Juice,Beverages,67,137.72,9227.24,East,UK,Online,16.22,1038.5,PayPal,Online
+17-02-2024,12:49:00,Muffins,Bakery,67,16.8,1125.6,West,Canada,Online,28.99,243.21,PayPal,Retail Store
+17-02-2024,09:20:00,Protein Bars,Snacks,56,32.9,1842.4,South,Germany,Wholesaler,10.25,377.44,PayPal,Wholesale
+26-01-2024,02:39:00,Juice,Beverages,89,98.43,8760.27,North,UK,Online,16.14,2227.67,UPI,Wholesale
+21-01-2024,08:18:00,Tea,Beverages,88,97.04,8539.52,East,UK,Wholesaler,20.11,2522.96,Cash,Retail Store
+18-02-2024,03:37:00,Muffins,Bakery,87,8,696,South,Canada,Online,19.42,81.78,UPI,Offline
+23-02-2024,10:02:00,Tea,Beverages,92,90.05,8284.6,West,UK,Wholesaler,2.32,2682.72,Cash,Retail Store
+18-02-2024,10:04:00,Nuts,Snacks,1,52.47,52.47,East,Canada,Retailer,14.16,8.3,Debit Card,Offline
+18-02-2024,06:59:00,Cookies,Bakery,22,96.28,2118.16,West,Australia,Online,22.87,562.1,Credit Card,Offline
+18-02-2024,06:22:00,Protein Bars,Snacks,35,36.59,1280.65,North,Canada,Online,8.03,377.3,UPI,Online
+18-02-2024,12:16:00,Milk,Dairy,26,12.98,337.48,West,Canada,Online,8.92,43.42,Debit Card,Wholesale
+02-02-2024,06:27:00,Coffee,Beverages,92,82.17,7559.64,North,UK,Online,17.9,1650.48,Cash,Retail Store
+19-02-2024,03:16:00,Cheese,Dairy,69,50.46,3481.74,South,Australia,Online,24.08,378.81,UPI,Online
+26-03-2024,12:53:00,Tea,Beverages,80,94.33,7546.4,East,UK,Wholesaler,22,1148,Credit Card,Online
+31-01-2024,11:30:00,Tea,Beverages,100,75.21,7521,West,UK,Online,28.05,1069,Credit Card,Wholesale
+19-02-2024,07:53:00,Protein Bars,Snacks,37,62.86,2325.82,South,Canada,Retailer,19.94,520.22,PayPal,Online
+19-02-2024,14:24:00,Muffins,Bakery,22,72.51,1595.22,East,USA,Retailer,22.44,485.98,Debit Card,Offline
+22-02-2024,11:37:00,Coffee,Beverages,69,102.28,7057.32,East,UK,Wholesaler,27.75,2784.84,UPI,Wholesale
+19-02-2024,18:54:00,Coffee,Beverages,51,149.18,7608.18,North,USA,Online,1.45,2802.96,Credit Card,Wholesale
+20-02-2024,13:35:00,Cheese,Dairy,72,52.62,3788.64,West,Germany,Retailer,24.62,1029.6,Credit Card,Offline
+20-02-2024,06:18:00,Muffins,Bakery,25,105.14,2628.5,East,USA,Wholesaler,10.28,804,UPI,Wholesale
+20-02-2024,19:32:00,Yogurt,Dairy,11,97.3,1070.3,East,Canada,Retailer,19.27,136.07,PayPal,Online
+20-02-2024,14:37:00,Nuts,Snacks,60,103.13,6187.8,East,USA,Wholesaler,28.52,1848.6,UPI,Offline
+20-02-2024,21:53:00,Coffee,Beverages,90,60.66,5459.4,South,Australia,Wholesaler,22.77,2041.2,Debit Card,Offline
+20-02-2024,09:40:00,Nuts,Snacks,53,39.77,2107.81,South,Canada,Wholesaler,2.84,651.37,UPI,Online
+16-02-2024,03:22:00,Juice,Beverages,50,135.13,6756.5,North,UK,Online,2.74,880.5,Credit Card,Retail Store
+20-02-2024,13:21:00,Milk,Dairy,83,72.21,5993.43,North,Canada,Online,26.07,1367.84,Debit Card,Retail Store
+20-02-2024,12:55:00,Popcorn,Snacks,100,96.64,9664,North,USA,Wholesaler,29.88,2299,UPI,Offline
+20-02-2024,16:13:00,Popcorn,Snacks,52,72.18,3753.36,North,Canada,Wholesaler,14.5,1345.76,Credit Card,Wholesale
+20-02-2024,16:56:00,Tea,Beverages,1,120.22,120.22,West,Canada,Retailer,16.02,40.44,Debit Card,Wholesale
+20-02-2024,18:57:00,Juice,Beverages,60,92.08,5524.8,North,India,Retailer,26.91,896.4,Credit Card,Offline
+20-02-2024,05:39:00,Muffins,Bakery,98,108.1,10593.8,North,USA,Retailer,26.93,2476.46,Debit Card,Offline
+20-02-2024,03:06:00,Bread,Bakery,58,50.35,2920.3,South,Germany,Online,19.39,454.14,PayPal,Wholesale
+20-02-2024,09:36:00,Milk,Dairy,77,81.99,6313.23,East,Germany,Retailer,6.99,816.97,PayPal,Wholesale
+21-02-2024,12:07:00,Milk,Dairy,82,134.52,11030.64,South,Australia,Wholesaler,7.86,3514.52,Cash,Online
+21-02-2024,23:16:00,Muffins,Bakery,48,140.85,6760.8,East,Canada,Online,6.66,1968.96,Cash,Retail Store
+21-02-2024,13:55:00,Muffins,Bakery,11,90.74,998.14,South,USA,Online,27.74,212.63,Debit Card,Offline
+21-02-2024,17:22:00,Yogurt,Dairy,19,107.41,2040.79,North,Germany,Online,22.43,395.77,Cash,Wholesale
+11-01-2024,01:28:00,Juice,Beverages,69,96.08,6629.52,West,UK,Wholesaler,3.65,2367.39,Cash,Online
+21-02-2024,06:36:00,Tea,Beverages,4,118.85,475.4,South,USA,Retailer,1.61,102.68,PayPal,Offline
+22-02-2024,14:16:00,Nuts,Snacks,31,23.96,742.76,South,Germany,Wholesaler,13.84,194.06,Debit Card,Offline
+22-02-2024,04:18:00,Cookies,Bakery,60,16.76,1005.6,North,India,Wholesaler,1.06,264,PayPal,Online
+22-02-2024,05:25:00,Milk,Dairy,90,101.33,9119.7,East,Australia,Online,25.2,3568.5,Credit Card,Wholesale
+22-02-2024,17:14:00,Chips,Snacks,57,39.87,2272.59,North,USA,Wholesaler,27.95,255.93,Debit Card,Online
+22-02-2024,08:04:00,Cakes,Bakery,47,148.61,6984.67,West,USA,Retailer,1.83,2588.76,Cash,Wholesale
+04-02-2024,17:04:00,Tea,Beverages,85,76.91,6537.35,West,UK,Wholesaler,23.05,1423.75,PayPal,Online
+22-02-2024,12:18:00,Muffins,Bakery,92,118.52,10903.84,South,Australia,Online,23.79,1196.92,Cash,Retail Store
+22-02-2024,04:58:00,Juice,Beverages,64,39.68,2539.52,North,Australia,Online,3.72,400,UPI,Retail Store
+22-02-2024,08:15:00,Juice,Beverages,36,86.94,3129.84,West,Canada,Online,28.2,510.12,Credit Card,Retail Store
+22-02-2024,18:09:00,Muffins,Bakery,79,113.92,8999.68,East,Germany,Wholesaler,20.38,2761.05,Debit Card,Offline
+22-02-2024,10:55:00,Butter,Dairy,9,46.01,414.09,East,Germany,Wholesaler,15.02,158.04,UPI,Wholesale
+23-02-2024,17:31:00,Chips,Snacks,30,15.46,463.8,South,Germany,Online,1.53,104.1,Credit Card,Online
+23-02-2024,02:24:00,Nuts,Snacks,13,86.43,1123.59,South,Canada,Online,0.36,376.22,UPI,Retail Store
+23-02-2024,18:05:00,Popcorn,Snacks,51,82.12,4188.12,North,Australia,Online,20.11,1483.59,Cash,Retail Store
+23-02-2024,08:55:00,Yogurt,Dairy,34,50.69,1723.46,East,Canada,Online,13.5,332.18,Credit Card,Offline
+23-02-2024,07:13:00,Muffins,Bakery,56,19.34,1083.04,East,Australia,Wholesaler,29.23,135.52,Cash,Retail Store
+17-03-2024,02:11:00,Tea,Beverages,53,122.54,6494.62,West,UK,Retailer,26.68,1821.61,UPI,Retail Store
+07-02-2024,00:35:00,Soft Drink,Beverages,58,110.89,6431.62,East,UK,Retailer,13.88,2286.36,Credit Card,Online
+23-02-2024,21:24:00,Coffee,Beverages,52,6.85,356.2,West,Australia,Wholesaler,17.31,58.76,Credit Card,Retail Store
+23-02-2024,19:56:00,Protein Bars,Snacks,25,38.51,962.75,North,Australia,Online,15.06,365.75,Credit Card,Wholesale
+23-02-2024,02:53:00,Cookies,Bakery,48,108.34,5200.32,East,Australia,Online,18.52,1540.8,Credit Card,Wholesale
+23-02-2024,14:26:00,Bread,Bakery,29,107.74,3124.46,South,Canada,Wholesaler,15.44,1237.43,Cash,Online
+23-02-2024,00:14:00,Cakes,Bakery,22,36.69,807.18,North,Germany,Wholesaler,20.42,281.6,Debit Card,Wholesale
+23-02-2024,12:17:00,Cookies,Bakery,76,14.53,1104.28,South,India,Retailer,8.94,287.28,PayPal,Online
+23-02-2024,16:25:00,Coffee,Beverages,2,128.2,256.4,North,India,Online,4.37,93.56,UPI,Offline
+23-02-2024,14:08:00,Bread,Bakery,57,103.94,5924.58,East,Germany,Retailer,23.13,2026.35,UPI,Wholesale
+04-02-2024,21:05:00,Juice,Beverages,62,100.48,6229.76,South,UK,Retailer,22.32,1936.26,PayPal,Online
+26-01-2024,05:56:00,Tea,Beverages,63,87.63,5520.69,East,UK,Online,23.71,683.55,Cash,Offline
+23-02-2024,04:57:00,Popcorn,Snacks,62,112.8,6993.6,East,Germany,Wholesaler,26.76,1558.68,Cash,Retail Store
+23-02-2024,17:24:00,Butter,Dairy,9,116.2,1045.8,North,USA,Online,7.47,412.2,Credit Card,Retail Store
+24-02-2024,07:00:00,Juice,Beverages,60,46.42,2785.2,East,Australia,Retailer,19.77,762.6,Cash,Retail Store
+24-02-2024,05:13:00,Coffee,Beverages,98,58.54,5736.92,East,Australia,Wholesaler,8.89,1597.4,Cash,Retail Store
+27-03-2024,20:47:00,Tea,Beverages,43,102.48,4406.64,North,UK,Wholesaler,29.97,1072.42,Debit Card,Wholesale
+26-01-2024,20:16:00,Soft Drink,Beverages,36,119.25,4293,South,UK,Wholesaler,2.89,1220.76,Credit Card,Wholesale
+24-02-2024,19:00:00,Chips,Snacks,89,86.11,7663.79,North,India,Wholesaler,7.68,1432.9,Debit Card,Retail Store
+24-02-2024,13:17:00,Soft Drink,Beverages,16,43.17,690.72,West,Germany,Online,3.09,118.72,Cash,Offline
+09-02-2024,13:14:00,Juice,Beverages,32,99.77,3192.64,West,UK,Retailer,15.83,489.92,UPI,Online
+25-02-2024,19:41:00,Milk,Dairy,91,145.22,13215.02,North,India,Wholesaler,22.94,1700.79,Cash,Offline
+31-01-2024,01:22:00,Coffee,Beverages,36,80.66,2903.76,South,UK,Retailer,7,357.12,PayPal,Online
+15-01-2024,09:57:00,Tea,Beverages,68,41.59,2828.12,East,UK,Wholesaler,17,817.36,Debit Card,Retail Store
+25-02-2024,08:22:00,Cheese,Dairy,79,147.15,11624.85,South,Australia,Wholesaler,14.83,3927.09,Credit Card,Online
+25-02-2024,12:09:00,Cookies,Bakery,18,113.21,2037.78,South,Australia,Wholesaler,7.47,439.38,PayPal,Retail Store
+26-01-2024,11:59:00,Coffee,Beverages,21,128.19,2691.99,South,UK,Retailer,3.75,730.17,Debit Card,Retail Store
+26-02-2024,00:54:00,Milk,Dairy,9,39.33,353.97,North,India,Online,13.69,36.9,PayPal,Wholesale
+26-02-2024,17:56:00,Cookies,Bakery,94,87.19,8195.86,West,Canada,Online,1.2,1815.14,UPI,Offline
+23-02-2024,20:10:00,Soft Drink,Beverages,58,43.27,2509.66,North,UK,Retailer,21.79,273.18,PayPal,Offline
+26-02-2024,16:41:00,Coffee,Beverages,23,114.79,2640.17,East,Germany,Retailer,12.39,761.99,Cash,Online
+26-02-2024,04:44:00,Milk,Dairy,61,64.34,3924.74,North,India,Online,14.6,1080.31,PayPal,Offline
+26-02-2024,21:37:00,Cakes,Bakery,57,41.89,2387.73,North,Australia,Retailer,19.33,695.97,Cash,Offline
+26-02-2024,18:32:00,Cheese,Dairy,72,9.23,664.56,North,Australia,Online,14.55,165.6,Debit Card,Offline
+26-02-2024,17:59:00,Bread,Bakery,8,8.09,64.72,North,Australia,Online,8.75,21.6,Debit Card,Retail Store
+06-01-2024,11:23:00,Coffee,Beverages,38,58.2,2211.6,East,UK,Retailer,5.67,636.5,UPI,Retail Store
+27-02-2024,18:48:00,Juice,Beverages,77,140.72,10835.44,West,India,Retailer,12.84,1673.98,Debit Card,Wholesale
+27-02-2024,20:16:00,Popcorn,Snacks,76,48.69,3700.44,South,India,Wholesaler,6.99,657.4,UPI,Wholesale
+27-02-2024,14:34:00,Milk,Dairy,65,56.43,3667.95,South,Australia,Online,17.86,432.9,Debit Card,Wholesale
+27-02-2024,05:57:00,Bread,Bakery,13,94.81,1232.53,North,Canada,Online,9.03,240.63,Credit Card,Offline
+27-02-2024,05:03:00,Soft Drink,Beverages,27,98,2646,North,Germany,Wholesaler,28.15,578.34,PayPal,Online
+27-02-2024,09:38:00,Tea,Beverages,75,54.74,4105.5,South,USA,Online,8.92,1173.75,Debit Card,Retail Store
+27-02-2024,23:47:00,Coffee,Beverages,12,92.29,1107.48,North,India,Wholesaler,7.45,312.6,PayPal,Retail Store
+27-02-2024,14:34:00,Juice,Beverages,73,105.48,7700.04,West,Australia,Wholesaler,5.25,1424.23,Credit Card,Offline
+27-02-2024,13:46:00,Bread,Bakery,89,50.83,4523.87,West,Australia,Online,27.76,1188.15,Debit Card,Offline
+27-02-2024,12:37:00,Yogurt,Dairy,7,74.8,523.6,North,Canada,Wholesaler,1.77,195.51,Credit Card,Wholesale
+27-02-2024,19:29:00,Butter,Dairy,33,117.32,3871.56,West,Australia,Retailer,28.21,687.72,Debit Card,Offline
+28-02-2024,04:06:00,Butter,Dairy,46,68.57,3154.22,West,USA,Retailer,18.45,486.22,Cash,Online
+28-02-2024,20:27:00,Cakes,Bakery,83,68.28,5667.24,East,USA,Online,25.57,2200.33,Cash,Online
+28-02-2024,23:55:00,Nuts,Snacks,6,64.62,387.72,North,Canada,Retailer,4.19,115.56,UPI,Retail Store
+28-02-2024,03:08:00,Cheese,Dairy,62,112.63,6983.06,South,Canada,Online,20.25,2658.56,PayPal,Offline
+28-02-2024,23:52:00,Chips,Snacks,37,33.28,1231.36,South,Germany,Wholesaler,21.13,387.39,Cash,Retail Store
+28-02-2024,15:42:00,Cookies,Bakery,1,69.78,69.78,East,USA,Retailer,16.73,8.16,PayPal,Offline
+28-02-2024,23:23:00,Juice,Beverages,68,71.36,4852.48,South,USA,Online,25.63,1713.6,Credit Card,Wholesale
+28-02-2024,21:15:00,Milk,Dairy,19,67.93,1290.67,West,India,Online,9.75,441.94,PayPal,Offline
+28-02-2024,02:04:00,Yogurt,Dairy,21,75.6,1587.6,West,India,Online,23.38,413.7,Credit Card,Online
+29-02-2024,01:09:00,Soft Drink,Beverages,18,52,936,West,USA,Online,26.68,290.52,UPI,Offline
+30-01-2024,02:50:00,Soft Drink,Beverages,15,117.21,1758.15,West,UK,Wholesaler,14.39,584.55,Credit Card,Offline
+29-02-2024,00:22:00,Nuts,Snacks,46,6.49,298.54,North,USA,Wholesaler,2.64,78.66,Debit Card,Retail Store
+29-02-2024,18:21:00,Milk,Dairy,40,46.88,1875.2,East,Australia,Wholesaler,28.53,330.4,UPI,Online
+29-02-2024,15:03:00,Bread,Bakery,49,34.72,1701.28,West,India,Online,16.31,432.18,Credit Card,Wholesale
+29-02-2024,13:41:00,Popcorn,Snacks,39,79.58,3103.62,East,Germany,Retailer,18.23,868.92,UPI,Online
+29-02-2024,20:00:00,Coffee,Beverages,79,80.88,6389.52,East,Australia,Wholesaler,23,2332.08,Cash,Offline
+29-02-2024,18:55:00,Milk,Dairy,41,89.28,3660.48,South,Germany,Online,18.61,1132.01,Cash,Offline
+01-03-2024,11:42:00,Chips,Snacks,75,34.07,2555.25,East,India,Wholesaler,15.89,769.5,Cash,Online
+27-01-2024,14:10:00,Tea,Beverages,70,21.45,1501.5,West,UK,Wholesaler,26.53,156.8,UPI,Online
+01-03-2024,09:30:00,Soft Drink,Beverages,46,45.54,2094.84,South,Australia,Online,18.12,751.64,Cash,Online
+01-03-2024,06:00:00,Milk,Dairy,57,24.51,1397.07,North,Germany,Wholesaler,6.41,456,UPI,Online
+01-03-2024,17:50:00,Tea,Beverages,13,144.69,1880.97,South,Germany,Online,2.47,348.92,Debit Card,Online
+24-02-2024,03:56:00,Coffee,Beverages,48,30.86,1481.28,West,UK,Retailer,6.93,206.88,PayPal,Online
+01-03-2024,04:45:00,Bread,Bakery,32,50.74,1623.68,South,Germany,Retailer,6.6,525.76,Cash,Retail Store
+01-03-2024,14:12:00,Protein Bars,Snacks,72,141.63,10197.36,West,India,Wholesaler,0.69,3112.56,PayPal,Offline
+01-03-2024,22:07:00,Cakes,Bakery,70,24.95,1746.5,West,USA,Online,12.7,640.5,UPI,Wholesale
+01-03-2024,13:34:00,Bread,Bakery,86,51.92,4465.12,North,India,Online,17.03,746.48,PayPal,Retail Store
+01-03-2024,05:29:00,Protein Bars,Snacks,65,64.28,4178.2,North,Australia,Retailer,0.29,1557.4,Cash,Online
+01-03-2024,17:31:00,Muffins,Bakery,36,125.82,4529.52,West,India,Retailer,25.12,517.32,UPI,Online
+01-03-2024,15:39:00,Popcorn,Snacks,48,51.8,2486.4,North,Canada,Retailer,26.89,307.2,Debit Card,Offline
+01-03-2024,21:34:00,Chips,Snacks,34,140.4,4773.6,South,Canada,Wholesaler,7.12,1196.46,Cash,Retail Store
+01-03-2024,14:38:00,Butter,Dairy,1,103.59,103.59,North,Australia,Wholesaler,14.56,35.06,Cash,Offline
+01-03-2024,07:24:00,Butter,Dairy,90,61.22,5509.8,North,Germany,Retailer,7.02,1297.8,UPI,Offline
+01-03-2024,11:57:00,Yogurt,Dairy,21,8.13,170.73,South,Germany,Wholesaler,13.18,47.67,UPI,Offline
+01-03-2024,22:00:00,Popcorn,Snacks,89,143.31,12754.59,North,Australia,Wholesaler,7.87,4466.91,PayPal,Retail Store
+08-03-2024,02:37:00,Coffee,Beverages,10,138.86,1388.6,East,UK,Wholesaler,22.93,534.9,Credit Card,Wholesale
+02-03-2024,23:23:00,Cookies,Bakery,43,141.9,6101.7,East,Canada,Online,26.58,1770.74,Credit Card,Retail Store
+02-03-2024,20:35:00,Milk,Dairy,67,64.78,4340.26,North,India,Retailer,17.58,939.34,Credit Card,Wholesale
+02-03-2024,15:31:00,Popcorn,Snacks,18,8.56,154.08,East,Germany,Online,29.77,34.92,Credit Card,Online
+02-03-2024,06:30:00,Cookies,Bakery,75,49.82,3736.5,South,India,Online,21.02,531,Credit Card,Online
+02-03-2024,02:22:00,Cheese,Dairy,10,19.82,198.2,East,Australia,Online,25.61,56.5,Credit Card,Online
+02-03-2024,10:34:00,Cheese,Dairy,23,100.79,2318.17,East,Canada,Wholesaler,15.72,856.98,Credit Card,Offline
+03-03-2024,20:12:00,Tea,Beverages,20,65.7,1314,South,UK,Wholesaler,23.85,432.2,UPI,Retail Store
+02-03-2024,22:09:00,Butter,Dairy,57,77.71,4429.47,West,India,Retailer,20.69,610.47,Cash,Wholesale
+02-03-2024,04:31:00,Butter,Dairy,2,37.8,75.6,West,USA,Retailer,3.01,17.84,Debit Card,Online
+19-02-2024,22:24:00,Coffee,Beverages,93,13.46,1251.78,West,UK,Wholesaler,18.4,347.82,Debit Card,Retail Store
+18-03-2024,03:45:00,Coffee,Beverages,42,22.63,950.46,South,UK,Wholesaler,29.5,375.48,Credit Card,Online
+02-03-2024,10:57:00,Nuts,Snacks,63,99.39,6261.57,North,USA,Online,3.23,1403.64,Cash,Offline
+21-03-2024,15:49:00,Tea,Beverages,30,29.5,885,North,UK,Wholesaler,21.48,229.5,Cash,Online
+02-03-2024,23:55:00,Protein Bars,Snacks,8,85.98,687.84,East,USA,Retailer,29.81,174.08,Credit Card,Offline
+02-03-2024,06:05:00,Tea,Beverages,12,17.81,213.72,East,Canada,Retailer,24.9,74.04,PayPal,Retail Store
+02-03-2024,06:16:00,Chips,Snacks,71,64.88,4606.48,West,India,Online,10.05,1101.21,Credit Card,Wholesale
+02-03-2024,20:16:00,Nuts,Snacks,46,114.57,5270.22,South,Australia,Retailer,0.32,1737.88,PayPal,Wholesale
+02-03-2024,03:03:00,Bread,Bakery,48,21.44,1029.12,North,Canada,Wholesaler,14.99,243.84,UPI,Retail Store
+03-03-2024,05:36:00,Butter,Dairy,61,124.9,7618.9,South,Germany,Online,21.99,1313.94,Debit Card,Retail Store
+03-03-2024,17:04:00,Coffee,Beverages,89,84.89,7555.21,South,Canada,Wholesaler,15.92,1158.78,UPI,Online
+14-03-2024,01:38:00,Juice,Beverages,22,13.27,291.94,West,UK,Retailer,14.65,33,PayPal,Retail Store
+03-03-2024,08:48:00,Soft Drink,Beverages,30,67.89,2036.7,East,Australia,Wholesaler,24.14,432.9,Cash,Retail Store
+03-03-2024,17:20:00,Cheese,Dairy,2,143.58,287.16,South,Canada,Wholesaler,11.67,75.28,Cash,Online
+02-01-2024,14:26:00,Coffee,Beverages,31,7.54,233.74,South,UK,Online,13,53.94,Cash,Wholesale
+28-03-2024,17:06:00,Tea,Beverages,7,8.15,57.05,North,UK,Retailer,8,13.3,Debit Card,Online
+03-03-2024,12:19:00,Popcorn,Snacks,58,91.9,5330.2,West,Canada,Online,10.02,1850.78,PayPal,Online
+03-03-2024,07:09:00,Juice,Beverages,77,76.02,5853.54,East,USA,Wholesaler,10.32,672.98,PayPal,Wholesale
+31-01-2024,19:45:00,Bread,Bakery,82,144.82,11875.24,West,UK,Online,27.25,4181.18,UPI,Online
+21-01-2024,02:11:00,Bread,Bakery,79,140.83,11125.57,North,UK,Online,10.56,3351.18,PayPal,Wholesale
+03-03-2024,05:05:00,Popcorn,Snacks,57,89.35,5092.95,North,India,Online,26.98,1411.32,PayPal,Retail Store
+03-03-2024,23:23:00,Tea,Beverages,84,128.13,10762.92,East,Germany,Wholesaler,13.44,1570.8,Credit Card,Wholesale
+03-03-2024,20:20:00,Butter,Dairy,20,130.87,2617.4,South,USA,Retailer,14.52,1012.8,UPI,Wholesale
+04-03-2024,06:36:00,Protein Bars,Snacks,26,136.7,3554.2,West,Australia,Online,2.91,457.86,Debit Card,Retail Store
+04-03-2024,05:02:00,Cakes,Bakery,1,37.9,37.9,West,Canada,Online,26.19,3.96,PayPal,Retail Store
+04-03-2024,08:50:00,Protein Bars,Snacks,40,70.56,2822.4,West,Germany,Online,21.51,735.2,Credit Card,Wholesale
+04-03-2024,18:33:00,Cheese,Dairy,45,54.08,2433.6,North,India,Wholesaler,2.47,494.1,UPI,Offline
+04-03-2024,00:44:00,Coffee,Beverages,56,145.03,8121.68,North,Australia,Wholesaler,1.85,1901.2,PayPal,Retail Store
+05-03-2024,20:37:00,Protein Bars,Snacks,26,12.73,330.98,West,Canada,Wholesaler,14.81,92.3,Cash,Online
+05-03-2024,15:35:00,Popcorn,Snacks,61,141.79,8649.19,South,Australia,Wholesaler,0.97,1528.66,Cash,Online
+05-03-2024,05:37:00,Juice,Beverages,76,61.44,4669.44,South,Canada,Wholesaler,2.24,607.24,UPI,Offline
+16-01-2024,14:03:00,Muffins,Bakery,93,112.36,10449.48,South,UK,Retailer,4.95,3950.64,Debit Card,Offline
+05-03-2024,11:03:00,Milk,Dairy,54,91.68,4950.72,North,Canada,Wholesaler,12.89,1641.06,Cash,Retail Store
+08-03-2024,05:01:00,Bread,Bakery,72,123.21,8871.12,East,UK,Wholesaler,14.43,3541.68,Debit Card,Online
+06-03-2024,18:41:00,Popcorn,Snacks,65,35.8,2327,South,Canada,Online,7.3,237.25,PayPal,Wholesale
+06-03-2024,05:49:00,Muffins,Bakery,7,70.19,491.33,South,USA,Online,0.23,65.38,Cash,Online
+06-03-2024,05:10:00,Muffins,Bakery,65,19.7,1280.5,North,USA,Retailer,25.87,162.5,Debit Card,Online
+06-03-2024,09:32:00,Popcorn,Snacks,49,112.55,5514.95,South,India,Online,9.75,1529.29,PayPal,Retail Store
+06-03-2024,18:48:00,Tea,Beverages,73,125.67,9173.91,West,Germany,Wholesaler,20.83,1154.13,Credit Card,Online
+06-03-2024,19:24:00,Tea,Beverages,24,101.29,2430.96,South,Germany,Online,4.48,914.88,Credit Card,Offline
+06-03-2024,03:51:00,Chips,Snacks,21,83.74,1758.54,East,India,Online,24.78,657.93,Cash,Online
+06-03-2024,06:37:00,Juice,Beverages,12,31.6,379.2,East,India,Online,24.39,146.16,Debit Card,Online
+07-03-2024,02:26:00,Nuts,Snacks,82,139.85,11467.7,East,USA,Retailer,15.55,3624.4,Cash,Online
+07-03-2024,07:18:00,Popcorn,Snacks,28,140.29,3928.12,East,USA,Online,20.18,1212.68,Credit Card,Retail Store
+07-03-2024,05:11:00,Nuts,Snacks,37,35.84,1326.08,West,Australia,Wholesaler,17.87,142.08,Cash,Retail Store
+05-03-2024,06:56:00,Muffins,Bakery,92,73.83,6792.36,North,UK,Wholesaler,23.64,1528.12,UPI,Retail Store
+08-03-2024,22:00:00,Cookies,Bakery,99,81.11,8029.89,East,India,Wholesaler,20.06,1212.75,Credit Card,Retail Store
+08-03-2024,07:21:00,Nuts,Snacks,87,116.23,10112.01,North,USA,Wholesaler,8.2,1228.44,UPI,Offline
+26-03-2024,00:18:00,Bread,Bakery,73,87.74,6405.02,North,UK,Online,18.2,2509.01,PayPal,Wholesale
+08-03-2024,05:07:00,Protein Bars,Snacks,33,114.04,3763.32,North,Australia,Wholesaler,3.8,438.24,UPI,Online
+08-03-2024,15:34:00,Yogurt,Dairy,25,81.62,2040.5,East,India,Online,27.44,800.75,Debit Card,Online
+08-03-2024,06:24:00,Soft Drink,Beverages,86,92.62,7965.32,East,Australia,Online,5.35,2627.3,UPI,Retail Store
+08-03-2024,17:03:00,Butter,Dairy,28,123.13,3447.64,East,Australia,Retailer,12.16,1165.64,PayPal,Retail Store
+08-03-2024,14:58:00,Chips,Snacks,68,56.47,3839.96,South,India,Retailer,3.37,1065.56,Cash,Wholesale
+08-03-2024,21:54:00,Juice,Beverages,15,55.16,827.4,South,USA,Wholesaler,29.79,189.9,Cash,Wholesale
+08-03-2024,22:26:00,Bread,Bakery,2,46.97,93.94,East,USA,Retailer,25.48,24.9,Cash,Offline
+08-03-2024,09:27:00,Cookies,Bakery,39,82.23,3206.97,North,Australia,Wholesaler,18.46,1262.04,PayPal,Retail Store
+08-03-2024,12:46:00,Popcorn,Snacks,3,88.94,266.82,East,Germany,Retailer,26.36,98.43,Credit Card,Retail Store
+08-03-2024,10:23:00,Soft Drink,Beverages,94,139.04,13069.76,North,Canada,Wholesaler,24,1989.98,Cash,Online
+09-03-2024,13:41:00,Soft Drink,Beverages,12,106.54,1278.48,East,Canada,Wholesaler,5.33,380.16,UPI,Wholesale
+09-03-2024,00:12:00,Soft Drink,Beverages,7,25.53,178.71,North,Canada,Retailer,23.16,62.51,UPI,Retail Store
+10-03-2024,00:59:00,Coffee,Beverages,50,53.56,2678,West,India,Online,6.32,708,UPI,Retail Store
+10-03-2024,09:48:00,Chips,Snacks,62,119.2,7390.4,East,USA,Online,21.78,1691.36,Cash,Online
+10-03-2024,03:29:00,Cakes,Bakery,95,142.86,13571.7,West,Canada,Wholesaler,0.75,1941.8,PayPal,Retail Store
+10-03-2024,15:03:00,Tea,Beverages,96,112.66,10815.36,East,India,Online,16.58,3717.12,Credit Card,Online
+10-03-2024,19:37:00,Yogurt,Dairy,7,101.68,711.76,South,Canada,Retailer,24.27,241.57,Debit Card,Retail Store
+10-03-2024,07:30:00,Protein Bars,Snacks,26,76.73,1994.98,South,India,Online,8.97,296.66,Cash,Wholesale
+10-03-2024,23:05:00,Muffins,Bakery,71,5.03,357.13,West,USA,Retailer,4.79,80.94,UPI,Wholesale
+10-03-2024,20:47:00,Chips,Snacks,88,110.1,9688.8,South,Germany,Online,1.56,2703.36,Cash,Wholesale
+10-03-2024,18:26:00,Nuts,Snacks,4,28.9,115.6,North,Australia,Retailer,22.05,24.32,Credit Card,Online
+16-02-2024,00:05:00,Cookies,Bakery,51,117.9,6012.9,East,UK,Wholesaler,23.92,1918.62,Cash,Offline
+26-01-2024,00:21:00,Cakes,Bakery,57,97.86,5578.02,East,UK,Online,2.41,1626.78,PayPal,Wholesale
+10-03-2024,22:11:00,Cookies,Bakery,91,31.21,2840.11,South,USA,Wholesaler,22.98,683.41,PayPal,Offline
+10-03-2024,00:47:00,Juice,Beverages,26,147.43,3833.18,East,USA,Retailer,14.08,1245.92,Debit Card,Retail Store
+10-03-2024,14:38:00,Nuts,Snacks,83,136.65,11341.95,West,USA,Online,8.69,3725.04,Credit Card,Offline
+10-03-2024,18:44:00,Juice,Beverages,1,71.9,71.9,South,Germany,Wholesaler,27.71,16.89,Cash,Online
+17-03-2024,17:33:00,Cakes,Bakery,85,64.6,5491,East,UK,Retailer,23.94,1786.7,PayPal,Wholesale
+25-02-2024,22:44:00,Cakes,Bakery,41,130.95,5368.95,South,UK,Retailer,25.09,1505.52,Credit Card,Wholesale
+11-03-2024,04:30:00,Cheese,Dairy,86,98.28,8452.08,West,Australia,Wholesaler,18,1600.46,PayPal,Retail Store
+11-03-2024,03:19:00,Protein Bars,Snacks,63,20.81,1311.03,West,India,Online,10.78,432.81,Credit Card,Retail Store
+11-03-2024,18:13:00,Muffins,Bakery,19,44.46,844.74,East,Australia,Online,11.7,126.92,Cash,Retail Store
+11-03-2024,12:13:00,Milk,Dairy,44,147.8,6503.2,East,Germany,Wholesaler,16.48,2014.76,UPI,Offline
+11-03-2024,20:53:00,Tea,Beverages,41,32.28,1323.48,East,Germany,Online,25.93,416.97,Debit Card,Offline
+11-03-2024,20:52:00,Nuts,Snacks,50,65.06,3253,North,Australia,Wholesaler,23.15,1253,Credit Card,Online
+11-03-2024,05:05:00,Cookies,Bakery,7,86.77,607.39,East,Australia,Online,2.53,95.41,UPI,Online
+11-03-2024,13:00:00,Tea,Beverages,84,13.62,1144.08,West,Australia,Wholesaler,5.12,420,Debit Card,Retail Store
+12-03-2024,02:26:00,Cakes,Bakery,93,131.18,12199.74,East,Canada,Retailer,1.78,3357.3,UPI,Offline
+12-03-2024,21:11:00,Milk,Dairy,16,91.99,1471.84,South,Australia,Wholesaler,26.45,168.32,Debit Card,Offline
+12-03-2024,09:12:00,Milk,Dairy,34,51.67,1756.78,East,Canada,Retailer,19.82,416.16,PayPal,Offline
+12-03-2024,07:36:00,Juice,Beverages,72,130.91,9425.52,North,India,Online,8.87,2666.16,UPI,Retail Store
+12-03-2024,23:58:00,Protein Bars,Snacks,25,62.91,1572.75,West,Canada,Online,25.31,593.75,PayPal,Online
+12-03-2024,19:26:00,Protein Bars,Snacks,32,101.5,3248,North,Canada,Online,16.25,846.4,Debit Card,Online
+12-03-2024,17:58:00,Cheese,Dairy,64,106.66,6826.24,North,Canada,Wholesaler,16.67,2390.4,Credit Card,Online
+12-03-2024,23:26:00,Tea,Beverages,38,116.68,4433.84,North,USA,Wholesaler,18.76,849.68,Cash,Wholesale
+13-03-2024,12:11:00,Coffee,Beverages,27,8.69,234.63,South,USA,Retailer,13.42,58.86,Cash,Retail Store
+13-03-2024,20:18:00,Popcorn,Snacks,89,29.79,2651.31,North,India,Online,4.93,545.57,Debit Card,Online
+13-03-2024,17:01:00,Soft Drink,Beverages,33,16.74,552.42,West,Canada,Online,6.81,198.66,Credit Card,Retail Store
+02-01-2024,14:54:00,Cakes,Bakery,85,62.63,5323.55,North,UK,Online,16.73,1484.1,Credit Card,Retail Store
+13-03-2024,13:34:00,Protein Bars,Snacks,39,102.56,3999.84,East,USA,Retailer,6.42,442.65,UPI,Wholesale
+13-03-2024,06:36:00,Butter,Dairy,90,17.75,1597.5,East,Germany,Online,9.35,182.7,PayPal,Retail Store
+13-03-2024,19:10:00,Chips,Snacks,87,147.2,12806.4,West,Germany,Online,7.12,4110.75,Credit Card,Offline
+14-03-2024,02:42:00,Soft Drink,Beverages,41,66.85,2740.85,East,Germany,Wholesaler,11.28,1002.45,UPI,Retail Store
+24-02-2024,12:32:00,Muffins,Bakery,76,67.37,5120.12,West,UK,Retailer,10.13,984.96,Cash,Wholesale
+14-03-2024,08:43:00,Chips,Snacks,7,99.89,699.23,North,Australia,Online,0.44,237.65,Credit Card,Online
+14-03-2024,16:40:00,Protein Bars,Snacks,29,36,1044,West,India,Retailer,21.45,145.58,Cash,Offline
+14-03-2024,02:37:00,Cheese,Dairy,17,106.33,1807.61,South,Australia,Wholesaler,0.49,395.59,Debit Card,Online
+28-03-2024,14:05:00,Cookies,Bakery,50,90.43,4521.5,West,UK,Retailer,15.21,680,UPI,Online
+14-03-2024,05:42:00,Soft Drink,Beverages,91,65.29,5941.39,South,USA,Retailer,19.31,761.67,Credit Card,Retail Store
+15-03-2024,09:41:00,Cakes,Bakery,41,37.12,1521.92,East,Canada,Online,21.5,445.26,UPI,Wholesale
+15-03-2024,18:06:00,Soft Drink,Beverages,6,130.86,785.16,West,Germany,Online,29.09,288.24,UPI,Offline
+15-03-2024,01:10:00,Tea,Beverages,15,93.35,1400.25,East,Canada,Online,25.88,552.6,Credit Card,Offline
+15-03-2024,10:22:00,Yogurt,Dairy,48,119.81,5750.88,East,USA,Retailer,9.87,677.76,PayPal,Retail Store
+15-03-2024,18:06:00,Cakes,Bakery,88,112.51,9900.88,East,Australia,Wholesaler,24.77,2438.48,UPI,Online
+15-03-2024,11:41:00,Nuts,Snacks,3,70.84,212.52,East,Canada,Wholesaler,1.42,27.06,PayPal,Wholesale
+18-02-2024,17:56:00,Cookies,Bakery,54,78.74,4251.96,West,UK,Online,27.4,1401.84,Cash,Offline
+15-03-2024,18:57:00,Chips,Snacks,62,83.98,5206.76,East,Germany,Online,12.19,1156.92,PayPal,Retail Store
+16-03-2024,00:41:00,Chips,Snacks,56,55.69,3118.64,North,India,Wholesaler,28.37,387.52,Cash,Retail Store
+16-03-2024,21:37:00,Nuts,Snacks,37,83.72,3097.64,East,Australia,Wholesaler,3.47,559.07,UPI,Retail Store
+16-03-2024,12:00:00,Juice,Beverages,75,38.44,2883,West,India,Online,8.95,793.5,PayPal,Retail Store
+16-03-2024,09:16:00,Tea,Beverages,85,57.14,4856.9,South,India,Online,12.51,1647.3,Credit Card,Offline
+16-03-2024,02:32:00,Soft Drink,Beverages,55,113.69,6252.95,East,USA,Wholesaler,19.05,744.15,UPI,Wholesale
+16-03-2024,04:21:00,Yogurt,Dairy,30,137.34,4120.2,West,Canada,Online,13.85,456.3,UPI,Online
+16-03-2024,22:00:00,Milk,Dairy,13,135.71,1764.23,North,Canada,Retailer,14.26,322.66,Debit Card,Offline
+16-03-2024,20:44:00,Muffins,Bakery,87,83.78,7288.86,East,Germany,Online,0.04,2778.78,Debit Card,Retail Store
+17-03-2024,14:13:00,Chips,Snacks,87,118.04,10269.48,North,Germany,Wholesaler,25.09,3541.77,Cash,Wholesale
+24-01-2024,20:28:00,Bread,Bakery,81,49,3969,North,UK,Retailer,3.72,672.3,Debit Card,Wholesale
+17-03-2024,13:46:00,Chips,Snacks,34,18.97,644.98,East,USA,Wholesaler,10.97,120.02,Credit Card,Wholesale
+17-03-2024,00:23:00,Cakes,Bakery,50,86.09,4304.5,South,India,Online,13.63,440,Cash,Offline
+17-03-2024,22:53:00,Cheese,Dairy,58,75.94,4404.52,East,Germany,Online,21.66,1596.74,Credit Card,Wholesale
+17-03-2024,05:37:00,Tea,Beverages,11,35.05,385.55,South,Australia,Wholesaler,3.95,75.79,Credit Card,Online
+17-03-2024,15:12:00,Soft Drink,Beverages,56,121.03,6777.68,West,India,Retailer,24.56,2150.96,PayPal,Retail Store
+17-03-2024,07:10:00,Popcorn,Snacks,36,59.09,2127.24,North,USA,Wholesaler,18.68,550.8,Credit Card,Offline
+17-03-2024,07:48:00,Soft Drink,Beverages,27,95.79,2586.33,South,Canada,Retailer,24.76,286.2,Debit Card,Online
+17-03-2024,13:39:00,Cheese,Dairy,12,126.6,1519.2,North,USA,Wholesaler,25.58,567.12,Cash,Retail Store
+10-03-2024,11:26:00,Bread,Bakery,29,127.17,3687.93,East,UK,Retailer,21.93,995.57,PayPal,Offline
+17-03-2024,16:57:00,Bread,Bakery,54,94.54,5105.16,East,USA,Wholesaler,4.52,1818.72,Cash,Offline
+17-03-2024,05:39:00,Protein Bars,Snacks,8,104.31,834.48,East,USA,Online,9.58,150.32,UPI,Offline
+17-03-2024,23:57:00,Bread,Bakery,64,149.21,9549.44,East,India,Online,27.79,2820.48,PayPal,Wholesale
+18-03-2024,22:31:00,Protein Bars,Snacks,84,115.88,9733.92,North,Germany,Retailer,17.1,3827.88,Debit Card,Wholesale
+18-03-2024,20:25:00,Nuts,Snacks,60,129.33,7759.8,North,Canada,Retailer,25.27,794.4,UPI,Wholesale
+18-03-2024,09:29:00,Tea,Beverages,66,120.81,7973.46,South,India,Wholesaler,14.66,2254.56,UPI,Offline
+07-02-2024,01:23:00,Bread,Bakery,64,56.9,3641.6,West,UK,Retailer,1.16,1016.96,PayPal,Online
+18-03-2024,01:11:00,Butter,Dairy,42,45.41,1907.22,West,USA,Retailer,29.54,477.96,UPI,Online
+21-03-2024,17:59:00,Bread,Bakery,58,59.97,3478.26,South,UK,Wholesaler,29.98,708.18,Credit Card,Offline
+30-01-2024,11:46:00,Cakes,Bakery,57,55.27,3150.39,North,UK,Wholesaler,16.01,941.64,UPI,Online
+15-02-2024,13:21:00,Cookies,Bakery,49,62.28,3051.72,East,UK,Wholesaler,8.87,891.31,Credit Card,Retail Store
+18-03-2024,08:08:00,Cookies,Bakery,14,106.02,1484.28,West,Australia,Retailer,3.3,584.5,Cash,Offline
+18-03-2024,11:56:00,Protein Bars,Snacks,36,145.1,5223.6,West,Germany,Retailer,20.11,1498.68,PayPal,Wholesale
+18-03-2024,11:56:00,Cakes,Bakery,9,147.7,1329.3,East,Germany,Online,19.9,377.82,Credit Card,Offline
+18-03-2024,13:37:00,Coffee,Beverages,67,104.25,6984.75,East,Canada,Online,25.24,786.58,Cash,Retail Store
+18-03-2024,18:39:00,Cakes,Bakery,18,91.39,1645.02,North,USA,Wholesaler,0.09,506.16,UPI,Retail Store
+18-03-2024,00:49:00,Soft Drink,Beverages,74,37.32,2761.68,East,India,Retailer,4.89,629,Credit Card,Retail Store
+18-03-2024,22:25:00,Tea,Beverages,36,60.21,2167.56,East,India,Wholesaler,18.06,858.96,UPI,Wholesale
+18-03-2024,10:13:00,Butter,Dairy,21,76.92,1615.32,East,Australia,Online,6.95,327.18,PayPal,Retail Store
+18-03-2024,11:00:00,Popcorn,Snacks,40,55.04,2201.6,North,Australia,Wholesaler,17.79,703.6,Debit Card,Online
+13-02-2024,19:33:00,Cookies,Bakery,74,40.1,2967.4,South,UK,Wholesaler,5.62,1067.82,PayPal,Online
+18-03-2024,15:16:00,Chips,Snacks,92,127.79,11756.68,North,Germany,Retailer,12.81,1389.2,Debit Card,Offline
+01-03-2024,06:21:00,Cookies,Bakery,61,48.02,2929.22,East,UK,Wholesaler,0.57,1038.22,UPI,Retail Store
+18-03-2024,01:42:00,Butter,Dairy,82,20.13,1650.66,West,Germany,Wholesaler,1.01,269.78,Debit Card,Offline
+18-03-2024,04:53:00,Juice,Beverages,5,61.59,307.95,North,Canada,Online,23.83,92.6,Credit Card,Offline
+18-03-2024,11:11:00,Bread,Bakery,80,91.79,7343.2,West,Canada,Retailer,3.07,1970.4,Credit Card,Online
+18-03-2024,21:32:00,Popcorn,Snacks,45,70.83,3187.35,North,USA,Online,4.59,1003.05,PayPal,Retail Store
+19-03-2024,18:06:00,Nuts,Snacks,7,101.67,711.69,North,Germany,Retailer,2.74,107.45,UPI,Wholesale
+19-03-2024,22:02:00,Protein Bars,Snacks,47,16.03,753.41,South,Australia,Retailer,3.39,101.52,PayPal,Offline
+19-03-2024,11:14:00,Muffins,Bakery,13,119.62,1555.06,West,Canada,Online,6.39,540.54,Credit Card,Retail Store
+20-03-2024,02:37:00,Soft Drink,Beverages,98,49.75,4875.5,South,USA,Retailer,27.57,501.76,Credit Card,Offline
+27-01-2024,17:57:00,Bread,Bakery,51,52.72,2688.72,East,UK,Retailer,24.57,446.25,Credit Card,Retail Store
+20-03-2024,14:03:00,Nuts,Snacks,81,71.61,5800.41,West,India,Retailer,11.68,1963.44,UPI,Offline
+20-03-2024,19:20:00,Juice,Beverages,30,81.23,2436.9,South,Germany,Retailer,24.24,894.9,Debit Card,Offline
+21-03-2024,03:06:00,Soft Drink,Beverages,34,89.14,3030.76,North,Germany,Retailer,25.53,935.34,Cash,Offline
+12-01-2024,19:41:00,Cakes,Bakery,87,28.82,2507.34,North,UK,Online,18.69,805.62,PayPal,Online
+21-03-2024,07:24:00,Cookies,Bakery,93,52.68,4899.24,West,Canada,Wholesaler,23.44,1484.28,UPI,Retail Store
+21-03-2024,12:42:00,Milk,Dairy,98,137.94,13518.12,North,USA,Online,13.33,4553.08,Credit Card,Offline
+21-03-2024,09:25:00,Protein Bars,Snacks,43,93.09,4002.87,North,Canada,Retailer,25.52,403.77,Debit Card,Retail Store
+29-02-2024,02:44:00,Bread,Bakery,33,67.23,2218.59,East,UK,Wholesaler,13.59,808.5,UPI,Online
+21-03-2024,20:05:00,Popcorn,Snacks,31,147.66,4577.46,West,India,Retailer,6.05,547.46,Debit Card,Online
+21-03-2024,17:13:00,Juice,Beverages,11,12.14,133.54,East,Australia,Online,15.69,38.94,Cash,Offline
+21-03-2024,12:42:00,Chips,Snacks,64,42.88,2744.32,East,Germany,Online,25.32,657.92,PayPal,Online
+25-02-2024,04:14:00,Muffins,Bakery,57,37.92,2161.44,South,UK,Wholesaler,3.56,291.27,Cash,Offline
+21-03-2024,12:08:00,Cookies,Bakery,29,73.98,2145.42,North,Germany,Online,29.91,803.59,Cash,Retail Store
+21-03-2024,20:00:00,Soft Drink,Beverages,61,109.42,6674.62,South,India,Retailer,0.76,752.13,PayPal,Offline
+21-03-2024,10:23:00,Juice,Beverages,63,63.59,4006.17,South,India,Online,28.85,836.64,UPI,Online
+21-03-2024,04:48:00,Bread,Bakery,99,78.41,7762.59,North,Canada,Wholesaler,6.61,2933.37,PayPal,Online
+02-03-2024,06:28:00,Muffins,Bakery,96,20.59,1976.64,North,UK,Online,25.11,423.36,Cash,Wholesale
+21-03-2024,12:46:00,Coffee,Beverages,32,133.92,4285.44,East,USA,Online,21.79,846.4,Debit Card,Wholesale
+22-03-2024,04:37:00,Soft Drink,Beverages,40,94.63,3785.2,East,Germany,Retailer,11.52,416,Credit Card,Online
+22-03-2024,20:02:00,Protein Bars,Snacks,91,17.7,1610.7,North,Australia,Wholesaler,14.78,602.42,Debit Card,Wholesale
+22-03-2024,05:08:00,Cakes,Bakery,33,13.01,429.33,East,India,Wholesaler,29.28,45.54,PayPal,Retail Store
+22-03-2024,07:59:00,Coffee,Beverages,53,29.32,1553.96,South,USA,Retailer,23.61,481.24,Credit Card,Retail Store
+22-03-2024,10:30:00,Popcorn,Snacks,78,32.31,2520.18,East,Canada,Wholesaler,13.8,289.38,Debit Card,Offline
+22-03-2024,16:27:00,Juice,Beverages,49,69.09,3385.41,South,Germany,Retailer,28.92,1102.5,UPI,Retail Store
+22-03-2024,12:28:00,Cookies,Bakery,57,114.12,6504.84,South,Germany,Online,21.55,874.38,Cash,Retail Store
+22-03-2024,09:43:00,Chips,Snacks,89,83.27,7411.03,West,Germany,Online,9.62,2694.92,UPI,Online
+22-03-2024,09:12:00,Soft Drink,Beverages,30,13.34,400.2,West,USA,Wholesaler,6.87,86.4,UPI,Offline
+10-02-2024,02:31:00,Cakes,Bakery,80,21.06,1684.8,South,UK,Online,3.11,556.8,PayPal,Wholesale
+22-03-2024,18:19:00,Popcorn,Snacks,60,24.75,1485,East,Germany,Retailer,10.29,457.8,Debit Card,Wholesale
+22-03-2024,15:47:00,Protein Bars,Snacks,84,105.32,8846.88,East,Germany,Online,27.53,2013.48,PayPal,Wholesale
+23-03-2024,01:50:00,Cakes,Bakery,77,95.31,7338.87,North,Australia,Online,24.83,2462.46,UPI,Wholesale
+23-03-2024,18:35:00,Cheese,Dairy,40,72.95,2918,West,India,Wholesaler,18.11,518.4,Credit Card,Offline
+23-03-2024,22:21:00,Milk,Dairy,30,68.97,2069.1,South,Canada,Online,23.29,285.3,PayPal,Online
+23-03-2024,12:58:00,Butter,Dairy,81,126.12,10215.72,West,USA,Wholesaler,26.47,3330.72,PayPal,Online
+23-03-2024,09:06:00,Cheese,Dairy,14,142.67,1997.38,South,Canada,Retailer,13.65,390.32,PayPal,Retail Store
+24-03-2024,14:15:00,Juice,Beverages,80,17.68,1414.4,South,India,Online,29.57,277.6,Cash,Online
+24-03-2024,14:41:00,Cookies,Bakery,50,19.74,987,South,Canada,Wholesaler,10.92,335,Cash,Offline
+24-03-2024,04:40:00,Cakes,Bakery,53,125.84,6669.52,East,Australia,Retailer,11.85,2492.06,PayPal,Wholesale
+24-03-2024,16:36:00,Yogurt,Dairy,25,12.43,310.75,North,Australia,Retailer,4.09,59,UPI,Offline
+24-03-2024,20:35:00,Cheese,Dairy,58,118.61,6879.38,West,Canada,Retailer,2.54,2391.34,Credit Card,Offline
+24-03-2024,00:40:00,Cookies,Bakery,57,68.41,3899.37,East,India,Retailer,6.37,975.84,UPI,Retail Store
+24-03-2024,23:21:00,Butter,Dairy,18,149.36,2688.48,North,Germany,Wholesaler,2.91,973.8,Credit Card,Retail Store
+24-03-2024,14:05:00,Tea,Beverages,45,54.45,2450.25,North,Canada,Retailer,1.27,437.4,Debit Card,Retail Store
+24-03-2024,02:33:00,Popcorn,Snacks,70,41.39,2897.3,North,USA,Online,21.26,925.4,UPI,Retail Store
+18-03-2024,22:48:00,Cookies,Bakery,86,18.67,1605.62,East,UK,Wholesaler,21.47,502.24,UPI,Wholesale
+24-03-2024,04:07:00,Nuts,Snacks,35,27.36,957.6,West,Germany,Wholesaler,12.64,351.05,Credit Card,Wholesale
+24-03-2024,22:48:00,Juice,Beverages,50,25.98,1299,West,USA,Retailer,1.44,315.5,Credit Card,Retail Store
+24-03-2024,19:28:00,Chips,Snacks,86,117.77,10128.22,South,Canada,Wholesaler,24.96,2377.04,Debit Card,Wholesale
+09-01-2024,18:30:00,Cookies,Bakery,30,49.55,1486.5,East,UK,Online,19.85,245.1,PayPal,Offline
+24-03-2024,19:13:00,Cheese,Dairy,16,25.33,405.28,South,USA,Retailer,19.31,40.8,PayPal,Offline
+24-03-2024,09:55:00,Tea,Beverages,72,9.17,660.24,East,India,Online,18.24,216.72,UPI,Online
+25-03-2024,09:43:00,Protein Bars,Snacks,46,33.98,1563.08,North,Canada,Retailer,12.1,471.04,Credit Card,Offline
+25-03-2024,21:41:00,Cookies,Bakery,17,51.91,882.47,East,Canada,Wholesaler,29.84,348.33,Cash,Online
+25-03-2024,05:51:00,Nuts,Snacks,54,60.76,3281.04,North,Canada,Retailer,12.64,381.24,Credit Card,Offline
+25-03-2024,05:17:00,Tea,Beverages,95,34.8,3306,East,Canada,Online,27.98,775.2,PayPal,Offline
+25-03-2024,21:41:00,Cheese,Dairy,44,78.63,3459.72,East,Germany,Online,27.95,997.92,UPI,Offline
+02-03-2024,02:05:00,Cookies,Bakery,32,43.87,1403.84,North,UK,Online,4.79,240.64,Debit Card,Retail Store
+08-01-2024,15:43:00,Muffins,Bakery,87,11.41,992.67,East,UK,Retailer,26.93,326.25,UPI,Wholesale
+26-03-2024,17:48:00,Butter,Dairy,53,80.47,4264.91,West,India,Online,9.84,694.3,PayPal,Offline
+26-03-2024,05:43:00,Cookies,Bakery,99,94.26,9331.74,North,Australia,Online,12.77,987.03,Credit Card,Online
+26-03-2024,22:07:00,Juice,Beverages,69,65.65,4529.85,West,Australia,Wholesaler,4.44,1264.77,Credit Card,Online
+27-03-2024,23:38:00,Soft Drink,Beverages,25,115.94,2898.5,East,Canada,Retailer,11.44,846.75,Credit Card,Online
+27-03-2024,01:53:00,Butter,Dairy,97,131.5,12755.5,South,Australia,Online,17.02,4312.62,PayPal,Offline
+27-03-2024,00:08:00,Chips,Snacks,90,71.47,6432.3,North,Australia,Online,15.28,1412.1,Credit Card,Retail Store
+27-03-2024,12:22:00,Yogurt,Dairy,19,114.15,2168.85,South,Germany,Wholesaler,17.93,615.22,Credit Card,Offline
+27-03-2024,21:07:00,Coffee,Beverages,38,71.69,2724.22,West,Canada,Retailer,8.13,609.52,PayPal,Retail Store
+27-03-2024,18:18:00,Bread,Bakery,38,7.66,291.08,South,USA,Wholesaler,24.69,38.76,Cash,Online
+27-03-2024,07:44:00,Muffins,Bakery,38,108.63,4127.94,North,Australia,Online,29.18,1126.32,UPI,Online
+27-03-2024,16:25:00,Cookies,Bakery,71,123.43,8763.53,South,India,Wholesaler,3.49,2333.06,UPI,Offline
+27-03-2024,09:19:00,Popcorn,Snacks,32,90.61,2899.52,East,USA,Retailer,1.84,316.8,Cash,Online
+11-03-2024,15:55:00,Bread,Bakery,27,33.38,901.26,South,UK,Retailer,23.02,115.29,UPI,Retail Store
+27-03-2024,22:28:00,Protein Bars,Snacks,45,56.74,2553.3,North,Germany,Online,19.1,369,Debit Card,Offline
+19-02-2024,11:13:00,Cakes,Bakery,40,22.09,883.6,North,UK,Wholesaler,27.04,273.6,PayPal,Online
+28-03-2024,06:12:00,Tea,Beverages,81,100.83,8167.23,South,Germany,Wholesaler,19.82,1696.95,Cash,Retail Store
+28-03-2024,10:54:00,Nuts,Snacks,33,71.23,2350.59,North,Germany,Online,27.66,554.73,Debit Card,Online
+28-03-2024,06:11:00,Soft Drink,Beverages,11,91.12,1002.32,East,USA,Online,2.83,236.61,PayPal,Offline
+21-02-2024,09:52:00,Muffins,Bakery,11,80.16,881.76,East,UK,Retailer,21.24,141.13,UPI,Offline
+28-03-2024,01:06:00,Tea,Beverages,77,34.76,2676.52,South,Germany,Online,15.26,982.52,Credit Card,Online
+28-03-2024,20:18:00,Chips,Snacks,51,123.8,6313.8,East,Canada,Retailer,15.09,733.38,UPI,Retail Store
+28-03-2024,03:07:00,Nuts,Snacks,74,99.09,7332.66,East,Australia,Wholesaler,27.88,1433.38,Debit Card,Retail Store
+28-03-2024,23:06:00,Milk,Dairy,39,24.68,962.52,East,India,Retailer,18.8,134.94,UPI,Wholesale
+28-03-2024,08:36:00,Popcorn,Snacks,71,112.07,7956.97,South,Australia,Retailer,11.71,1031.63,Credit Card,Wholesale
+28-03-2024,07:52:00,Tea,Beverages,78,69.9,5452.2,South,India,Wholesaler,17.76,1486.68,UPI,Online
+28-03-2024,03:11:00,Coffee,Beverages,56,76.26,4270.56,East,Canada,Retailer,7.2,1383.2,Cash,Wholesale
+28-03-2024,23:56:00,Coffee,Beverages,40,101.09,4043.6,West,Germany,Wholesaler,29.16,417.6,UPI,Retail Store
+28-03-2024,11:35:00,Butter,Dairy,40,141.94,5677.6,South,Germany,Retailer,29.93,1394,PayPal,Retail Store
+28-03-2024,19:38:00,Nuts,Snacks,82,33.86,2776.52,West,Germany,Retailer,12.05,1097.16,Cash,Offline
+30-01-2024,02:04:00,Bread,Bakery,11,79.28,872.08,East,UK,Online,8.71,149.82,UPI,Retail Store
+29-03-2024,23:16:00,Soft Drink,Beverages,91,56.63,5153.33,North,USA,Retailer,12.7,1753.57,UPI,Online
+29-03-2024,23:10:00,Yogurt,Dairy,27,144.73,3907.71,South,Australia,Retailer,26.13,1195.29,Debit Card,Offline
+29-03-2024,21:30:00,Bread,Bakery,19,36.47,692.93,North,Canada,Online,11.02,156.56,UPI,Online
+29-03-2024,00:01:00,Muffins,Bakery,42,135.85,5705.7,South,Germany,Wholesaler,5.87,2218.86,Credit Card,Offline
+29-03-2024,01:56:00,Tea,Beverages,3,40.46,121.38,West,USA,Wholesaler,24.51,28.5,UPI,Online
+29-03-2024,07:23:00,Coffee,Beverages,40,96.6,3864,East,USA,Retailer,8.36,1145.2,Debit Card,Wholesale
+30-03-2024,20:58:00,Yogurt,Dairy,16,110.06,1760.96,West,Germany,Online,6.11,222.24,PayPal,Online
+27-01-2024,01:04:00,Cakes,Bakery,12,63.11,757.32,South,UK,Wholesaler,28.07,130.56,Debit Card,Offline
+30-03-2024,03:43:00,Cheese,Dairy,21,118.48,2488.08,East,Canada,Wholesaler,5.45,541.38,PayPal,Offline
+30-03-2024,07:43:00,Protein Bars,Snacks,6,89.3,535.8,North,Canada,Retailer,8.5,164.94,Debit Card,Wholesale
+18-03-2024,20:32:00,Cakes,Bakery,48,14.86,713.28,East,UK,Online,7.08,90.24,UPI,Online
+18-03-2024,22:31:00,Bread,Bakery,5,81.19,405.95,East,UK,Retailer,12.2,125.9,UPI,Offline
+30-03-2024,12:15:00,Protein Bars,Snacks,84,137.76,11571.84,West,Germany,Wholesaler,16.9,1778.28,Credit Card,Online
+30-03-2024,19:05:00,Soft Drink,Beverages,29,123.48,3580.92,East,Germany,Retailer,5.6,763.28,Credit Card,Online
+30-03-2024,06:21:00,Nuts,Snacks,83,104.37,8662.71,East,USA,Online,29.9,2692.52,Debit Card,Online
+30-03-2024,00:25:00,Yogurt,Dairy,67,74.47,4989.49,South,Canada,Retailer,9.55,1547.03,PayPal,Online
+30-03-2024,02:41:00,Soft Drink,Beverages,20,30.82,616.4,West,Canada,Wholesaler,26.75,113.6,UPI,Online
+30-03-2024,11:22:00,Muffins,Bakery,50,57.7,2885,East,Germany,Online,28.5,777.5,Debit Card,Retail Store
+30-03-2024,20:33:00,Popcorn,Snacks,13,28.78,374.14,North,Canada,Wholesaler,20.02,70.72,UPI,Wholesale
+31-03-2024,12:56:00,Cakes,Bakery,59,143.02,8438.18,North,Canada,Online,25.84,2850.88,PayPal,Wholesale
+31-03-2024,13:08:00,Juice,Beverages,96,119.17,11440.32,North,USA,Wholesaler,1.66,3830.4,UPI,Retail Store
+31-03-2024,01:44:00,Butter,Dairy,98,97.06,9511.88,East,USA,Wholesaler,2,1100.54,Credit Card,Retail Store
+31-03-2024,01:55:00,Soft Drink,Beverages,33,114.53,3779.49,West,India,Retailer,23.53,750.75,Debit Card,Offline
+31-03-2024,11:36:00,Cheese,Dairy,58,41.37,2399.46,West,India,Online,27.61,940.18,UPI,Online
+31-03-2024,00:34:00,Coffee,Beverages,45,14.29,643.05,South,USA,Retailer,4.52,87.3,Credit Card,Offline
+31-03-2024,05:13:00,Coffee,Beverages,30,63.35,1900.5,East,Canada,Online,16.89,242.1,Debit Card,Offline
+31-03-2024,11:37:00,Yogurt,Dairy,59,61.31,3617.29,North,Canada,Retailer,18.27,876.15,Debit Card,Online
+31-03-2024,04:12:00,Cheese,Dairy,58,67.18,3896.44,North,Canada,Retailer,26.82,918.72,Credit Card,Offline
+31-03-2024,01:20:00,Milk,Dairy,32,106.23,3399.36,North,Canada,Wholesaler,2.62,348.8,Credit Card,Offline
+31-03-2024,23:46:00,Butter,Dairy,5,148.49,742.45,South,Canada,Online,2.79,268.5,Debit Card,Offline
+31-03-2024,17:02:00,Cheese,Dairy,77,8.2,631.4,South,Germany,Online,13.6,123.2,Debit Card,Online
+31-03-2024,06:43:00,Bread,Bakery,74,148.77,11008.98,East,Canada,Wholesaler,20.42,3135.38,Debit Card,Offline
+31-03-2024,18:43:00,Tea,Beverages,22,28.83,634.26,East,Germany,Retailer,9.79,177.1,Credit Card,Offline
+31-03-2024,15:55:00,Cheese,Dairy,9,86.62,779.58,East,India,Online,21.24,225.99,Debit Card,Wholesale
+31-03-2024,10:52:00,Muffins,Bakery,62,40.82,2530.84,South,Germany,Retailer,22.85,674.56,PayPal,Online
+31-03-2024,09:56:00,Protein Bars,Snacks,52,87.81,4566.12,East,Canada,Wholesaler,12.5,688.48,Debit Card,Online
+31-03-2024,14:30:00,Coffee,Beverages,16,141.72,2267.52,South,Germany,Retailer,25.91,471.36,PayPal,Offline
